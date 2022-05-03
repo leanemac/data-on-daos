@@ -54,18 +54,18 @@ Different insights have been extracted and put together in the form of an analyt
   
   - impactdaos_lang_processed.csv
   
-2. notebooks:
+2. notebooks: 
   
   - aragon_transactions.ipynb: notebook with loaded dataset - to be explored and classified
   - bankless_transactions.ipynb: notebook with supervised model of clustering - wallet segmentation
   - gitcoin_votes_and_proposals.ipynb: notebook with Gitcoin's insights related to governance, topic modelling on Snapshot proposals
-  - lido_transactions.ipynb:
-  - mstable_contributors_index.ipynb: notebook with all classified contriburs transactions
+  - lido_transactions.ipynb: notebook with loaded dataset - to be explored and classified
+  - mstable_contributors_index.ipynb: notebook with all classified contributors transactions
   - mstable_votes_and_proposals.ipynb: notebook with Mstable's insights related to governance, topic modelling on Snapshot proposals
   - mstable_wallet_segmentation-4k.ipynb: notebook with supervised machine learning model of classification, segmentation of wallets in clusters to identify types of transactions related to contributors
-  - mstable_wallet_segmentation_bmf.ipynb: 
-  - bankless_votes_and_proposals.ipynb:
-  - impact_daos_topic_modelling.ipynb:
+  - mstable_wallet_segmentation_bmf.ipynb: notebook with wallet segmentation applied with BMF criteria
+  - bankless_votes_and_proposals.ipynb: notebook with Bankless' insights related to governance, topic modelling on Snapshot proposals
+  - impact_daos_topic_modelling.ipynb: notebook with 11 daos (Cabindao, Forefront, Gitcoin, Giveth, Goldfinch, Moss, Ocean protocol, Proof of Humanity, Prime DAO, protein, The Dream DAO and VitaDAO) topic modelling from their snapshot proposals
   
   
 3. text_files: folder containing .json files extracted from snapshot with GraphQL
