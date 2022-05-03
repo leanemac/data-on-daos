@@ -1,6 +1,7 @@
-# data-on-regen-daos
+# data-on-daos 
+or may we say regen-daos?
 
-## An open source repository to learn and gather data about regenerative Decentralized Autonomous Organizations (DAOs)
+An open source repository to learn and gather data about regenerative Decentralized Autonomous Organizations (DAOs)
 
 # What are Decentralized Autonomous Organizations?
 
@@ -12,6 +13,7 @@ And they are **decentralized** because they are global and uncensorable. To expl
   3. How are decisions made in these organizations? With _open governance_: any member can propose an idea and all members can vote democratically on every decision
 
 ## What are regenerative DAOs?
+(context)
 
 # Why should we pay attention to them?
 
