@@ -24,3 +24,17 @@ Would it be of value to be able to find all DAOs that are working to regenerate 
 # The seed is planted
 
 Different insights have been extracted and put together in the form of an analytical dashboard to understand how a DAO operates. For extended details, see file_descriptions
+
+<details>
+<summary>file_descriptions</summary>
+<br>
+datasets: folder containing all .csv files used in the notebooks
+  aragon: folder containing the .csv files from Aragon DAO
+    aragon_transhist.csv: data extracted from Etherscan (2020-10-23 to 2022-04-0)
+  bankless: folder containing the .csv files from Bankless DAO
+    
+  gitcoin
+  lido
+  mstable
+  impactdaos_lang_processed.csv
+</details>
