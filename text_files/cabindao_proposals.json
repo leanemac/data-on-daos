@@ -1,0 +1,731 @@
+[
+      {
+        "id": "0x723b0271dac3c935a4516d3a30eee88f739134581b7f680ff645d8978ef68d01",
+        "title": "Community Guild Season 3 Proposal",
+        "body": "## Purpose of the Guild\n\nThe Community Guild is the cultural backbone of the DAO. We onboard new members, facilitate events IRL and URL, connect members to resources, host social clubs, lead dynamic programming, and help people find the projects that best suit their interests, skill-sets, and passions. \n\nBeyond leading onboarding, our guild’s focus will be to curate a lively and fun vibe-aligned culture by hosting IRL and URL events, fostering a collaborative work environment, facilitating connections, and moderating the community and its constantly growing needs. \n\n## Who will serve on the City Council representing the Guild?\nJon Dean\n\n## What are the Guild's goals for the season? What metrics will the Guild track?\n\nThe Community Guild is supporting three quests this season.:\n1. Lead weekly orientation calls and iterate on our onboarding materials\n2. Build a data-driven DEIJ action plan specific to Cabin that can be implemented for Season Four.\n3. Encourage & maintain good discord Hygiene & Cross-Pollination of information & context across guilds\n\nEach quest has an objective with affiliated KRs.\n\n*Objective: Make our onboarding experience world class for DAOs*\n- Build a library of Looms and YouTube videos that form the start of an asynchronous onboarding pathway for introverts.\n- Keep our FAQ and Onboarding documentation up to date.\n- Host 1-3 orientation sessions per week\n\n*Objective: Build a data-driven DEIJ action plan specific to Cabin that can be implemented for Season Four.*\n- Create database and populate it with demographic data of Cabin community, tokenholders, contributors, and city council members\n- Conduct 25 user interviews with diverse stakeholders within Cabin and the DAO ecosystem\n- Synthesize lessons from the user interviews & database to inform three actionable ways to improve Cabin's approach to DEIJ in future seasons\n- Host biweekly calls of a group of Cabin volunteers interested in building out our larger DEIJ strategy\n\n*Objective: Help other guilds retain and engage members while making it very easy for new members to understand the flow of information in Discord*\n- Facilitate weekly meetings at the guild level to unblock members, create a vibe at the guild level, and improve coordination\n- Moderate spam in discord and delete unwelcome messages within 12 hours.\n- Make sure that all intro/help messages are answered by a Cabin member within 12 hours\n- Help maintain a coherent Discord structure that is easy for newbies to understand\n\n\n## Guild Budget\nThe Community Guild is requesting $33,000 USDC and ₡3,315.00 to meet the objectives described above.\nEstimated budget: https://docs.google.com/spreadsheets/d/1u7O8M1OxVb2tRXfezFRo7F84vqoOqmzgcFYDXzxu6tM/edit#gid=1746292086 \n\n## Is admission to the Guild open or closed? How do people join?\nThe Community Guild is as open as it gets! People join by completing the Onboarding Welcome Form, attending an onboarding call, and then onboarding to the guild. We recommend scheduling a time to chat 1on1 with at least two people within the guild to get connected to our current initiatives and quests and see where they can plug in. \n\n## Evaluation of last season\nLast season the Community Guild was born. Through tactical and quick moving iterations, organization, and people-centered stewardship, we established ourselves as the backbone and cultural hub for the DAO. The great thing is that the fun has just begun….\n\n### Three badges we hold on our Season 2 passport: \n- Hosted and Created First Ever Guild Games \n--- A brainchild of the newly formed Community Guild, these week-long games were a fun and competitive way to end our season and look ahead to Season 3. Congrats again to the ~Product Guild~ All we will say is that you are lucky that the Community Guild was unbiasedly moderating the games. \n- Built Onboarding Flow\n---Through the creation and implementation of multiple surveys, calls, and meetings, we onboarded hundreds of people to the DAO. We received over 300 responses on our onboarding Welcome Form and hosted 20 group and individual onboarding calls. \n-Creation of the Guild Liaisons Role\n---Formed out of a need to deepen the second phase of community onboarding, we piloted these roles as a way to take stress off the guild facilitators and have another welcoming smile when you enter the DAO and our guilds.\n\nIn addition to the above quests, we had six KRs\n- Host five IRL event and host seven virtual events separate from weekly community calls, core contributor calls, and campfires.\n---This KR was achieved. In the end, we hosted several dozen virtual events in addition to the requisite IRL events - many of them happening during Guild Games alone. ✅\n- Help 50 new members across the DAO complete a bounty in season two.\n--- It is unknown if this KR was achieved exactly. 188 bounties were completed before the end of S2. It is hard to measure exactly how many people contributed. Our Clarity quest for this season should help make this more clear. ﹖\n- Create and iterate on a centralized onboarding hub complete with links, videos, and other information helpful for folks new to CABIN and web3.\n--- This KR was achieved ✅\n- Create standard operating procedures for hosting onboarding calls.\n--- This KR was achieved ✅\n- Host an end-of-season post-mortem call to determine the best activation, engagement, and retention metrics for future community seasons to track.\n--- This KR was achieved through two routes. We hosted a 360 Feedback process with all of the core contributors and solicited form fill outs from the community. We also started reporting weekly metrics. ✅",
+        "choices": [
+          "Hell Yes",
+          "Nah"
+        ],
+        "start": 1649886711,
+        "end": 1650437940,
+        "snapshot": "14579577",
+        "state": "closed",
+        "author": "0xb361356B0fc3E0805cf5eF4316EE4822a28A55D2",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmTXH4tDTYJPRkgP7SSrKyJt1RoyqQKNvHNMiKyFdQW4of",
+        "title": "Meta Guild Season 3 Budget",
+        "body": "The mission of the Meta Guild is to progressively decentralize the DAO and support the guilds.\n\nThe budget covers the following:\n+ 100% of Jon's compensation (role description:   https://app.clarity.so/cabin/pages/d1ad28cd-903f-48ca-9dff-49787377497d  )\n+ 60% of Phil's compensation (role description:   https://app.clarity.so/cabin/notes/aefab0c0-bdfa-44ed-94d3-2f4e39063540 )\n+ 20% of Zakk's compensation (role description.  https://docs.google.com/document/d/1JqDycJ1hws3Uy5yOoe3Dmn1fakwIBlQEhkDqsDjsin8/edit# )\n+ Todd's compensation to look over finances for the DAO\n\nIn addition it has budget for City Council retreats and a do-ocracy budget for the DAO.\n\n![image](ipfs://Qmd1rRsWzQceF5PHgJhUmgEXXRVi12Qc8ZKXJQgFrMQrHm)\n\nThe plan is to wind down the Meta Guild after this season.\n",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1649876400,
+        "end": 1650437940,
+        "snapshot": "14579645",
+        "state": "closed",
+        "author": "0x029EE42d381C9809493F34095235843625E46676",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "Qmdf3s3Tst7qz9UMGU7xnTApz5XL4ownLinkMCMrWLTBBg",
+        "title": "Placemaker's Guild Budget Season 3",
+        "body": "## Purpose of the Guild\nThe Placemakers  bring to life the physical manifestation of Cabin’s decentralized city.\n\nWe build out Cabin’s node network, create events/programming, and build actual things (pergolas, saunas, shedrooms) on land to improve the nodes. \n\n## Who will serve on the City Council representing the Guild?\nThe City Councilor for the Placemakers Guild will be Phil.\nPhil will be on paternity leave for 1 month starting mid-May and Chalice will take his place. \n\n## What are the Guild's goals for the season? What metrics will the Guild track?\n\nThree quests:\n1. Quest: Profitably operate Node Zero with scrumptious vibes (4 paid retreats + 3 DAO Operator Residencies)\n2. Quest: Put on 2 Build Weeks\n3. Quest: Kickstart Cabin’s node network (3 nodes + a coherent strategy/protocol)\n\nGuild Budget\nThe Placemakers Guild is requesting $41,500 USDC and 3,390 Cabin to accomplish the objectives described above.\n\n![image](ipfs://Qmao43hLEVw6PyyU9rYXe6dy6WRHqivVsZr8ptiDpCEiKy)\n\nDetailed budget: https://docs.google.com/spreadsheets/d/1MUtArMcrJQNQEYmEhAh2YG5sNSBUZYTfB6DJNGPMYtc/edit?usp=sharing\n\nEvaluation of last season\n\nA memo! https://app.clarity.so/cabin/pages/8881b56e-e0f5-4347-82df-8d5bb156b7cd\n",
+        "choices": [
+          "Hell ya, chainsaw vroom vroom",
+          "Nope"
+        ],
+        "start": 1649876400,
+        "end": 1650437940,
+        "snapshot": "14579058",
+        "state": "closed",
+        "author": "0x029EE42d381C9809493F34095235843625E46676",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0xf60ea06403dc0ee1b97f5a32c6e68078048b6db434921c45ced86372ecd2c1d1",
+        "title": "Product Guild Season 3 Proposal",
+        "body": "## Purpose of the Guild\nThe objective of the Product Guild is to build and ship high-quality products for decentralized cities. You can think of it as building the digital infrastructure for a digital-native city.\n\n## Who will serve on the City Council representing the Guild?\nThe City Councilor for the Product Guild will be 0xZakk, Steward of the Product Guild.\n\n## What are the Guild's goals for the season? What metrics will the Guild track?\nThe Product Guild is currently supporting four key initiatives:\n1. Growing Guild Membership - increasing the number of contributors/bounty hunters in the Guild\n2. Project Aspen: City as Protocol - The decentralized, on-chain protocol that governs nodes in the Cabin network\n3. Passports - The protocol for citizenship and meaning in Cabin\n4. Blaze - The digital schelling point for DAO operator excellence (the persistent  URL equivalent to DAO Camp)\n\nEach of the above initiatives will take on a high-level objective supported by specific key results.\n\n- Growing Guild Membership ($500 / ₡1,000)\n    - Season 3 Objective: Improve and grow the guild as a place for engineers, designers, and product managers to contribute to the DAO\n    - Key Results:\n        - Publish a formal goal setting and sprint process, likely using Objectives and Key Results (OKRs)\n        - Make product updates transparent and more easily understandable across the DAO. In a survey of 20 DAO members at the end of the season, 15 (75%)  should agree or strongly agree that they understand what the Product Guild is working on. \n        - 50 people are members of the product guild by regularly contributing to products and other initiatives across the DAO\n- City as Protocol ($1,100 / ₡4,000)\n    - Season 3 Objective: Research and Develop a strategy for building a decentralized city protocol\n    - Key Results:\n        - Publish a specification on a protocol for expanding our network of nodes around the world\n        - Deploy 3 prototype TCR implementations\n- Passports ($900 / ₡3,000)\n    - Season 3 Objective: Launch v1 of the product\n    - Key Results:\n        - Conduct 20 user interviews on the product to determine update and improvement priority\n        - Launch 5 features to improve the utility of the product\n        - Issue at least 50 stamps from the different Guilds within Cabin\n- Blaze ($400 / ₡1,500)\n    - Season 3 Objective: Validate the value proposition of Blaze to the Cabin and broader DAO ecosystem\n    - Key Results:\n        - Conduct 20 user interviews to align with users on the job to be done\n        - Test and develop 5 prototypes of new Blaze features\n        - Grow MVP to 50 users contributing 25 links per week\n\n## Guild Budget\n\nThe Product Guild is requesting $22,100.00 and ₡9,980.00 to accomplish the objectives described above.\n\n[Estimated budget](https://docs.google.com/spreadsheets/d/1ZpRI9q1gBvA5HsMOx9B9ADVwBsmWuQ-gUNG_xcoOEnc/edit?usp=sharing)\n\n## Evaluation of last season\n\n✅ Passports\n\nThe goal this past season was to launch and MVP of Passports that would let us mint NFTs. This we did accomplish. While the product isn’t as mature as we set out and we haven’t done as much user testing as we would have liked, it is launched and available to use.\n\n✅ Blaze\n\nThe goal for Blaze this past season was to launch an MVP so that we could start testing the product. This we accomplished.\n\n🛑 Decentralized Product Process\n\nThe goal was to create a process by which anyone could propose a product to the Guild and have it funded. We did make substantial process on this in The Grand Theory of Product but made the decision to stop focusing on this for now. This will either be something we start when we have more traction or this will be something that becomes part of the DAO operating system and so won't need to be part of the Product Guild operating system.\n",
+        "choices": [
+          "Hell Yes",
+          "No"
+        ],
+        "start": 1649878817,
+        "end": 1650394800,
+        "snapshot": "14579045",
+        "state": "closed",
+        "author": "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0x763660531cd9af77a426e5828542a8dda3204332bc55d17c29dac3b612566bc7",
+        "title": "Media Guild Season 3 Proposal",
+        "body": "\n## Purpose of the Guild\n\nThe mission of the Media Guild is to ... \n\n1.  LARP Cabin’s Creator Town into existence: a place where creators can live, work, and find community. \n    \n2.  Steward Cabin’s narrative to build a decentralized city.\n    \n\nThe vision of the Media Guild is triple point content creation:\n\n1.  A creator-first media publication\n    \n2.  A creator apprenticeship and collective\n    \n3.  A distribution network of networks\n    \n\n## Who will serve on the City Council representing the Guild?\n\nThe City Councilor for the Media Guild will be Roxine, Steward of the Media Guild.\n\n## What are the Guild's goals for the season? What metrics will the Guild track?\n\nThe Media Guild is currently supporting three key initiatives:\n\n1.  Generate demand for active Cabin nodes (co-owned KPI with Placemakers)\n    \n2.  Build Cabin’s Twitter audience to 20k and email list to 2k\n    \n3.  Continue creating the best content in the DAO ecosystem\n\n1.  Build Placemakers content calendar and systems to produce at least 1 article per week\n    \n2.  Finish season 1 of podcast and start season 2\n    \n\nEach of the above initiatives will take on a high-level objective supported by specific key results.\n\n1.  Generate demand for active nodes\n\t* Key results\n\t\t1. Figure out a KPI with Placemakers\n\t\t2. Publish 12 placemakers articles\n2. Build Cabin’s Twitter audience to 20k and email list to 2k\n\t* Key results\n\t\t1. Publish 12 Articles\n\t\t2. Publish 150 Twitter threads on our podcast and articles – 50 on Cabin’s account and 100 on members’ accounts\n\t\t3. Publish 22 podcast episodes\n3. Continue creating the best content in the DAO ecosystem\n\t* Key results\n\t\t1.  Build Placemakers content calendar and systems to produce at least 1 article per week  \n\t\t2. Finish season 1 of podcast and start season 2\n    \n\n## Guild Budget\n\nThe Media Guild is requesting $30,000 USDC and 4,931 ₡ to accomplish the objectives described above.\n\n[Estimated budget](https://docs.google.com/spreadsheets/d/14AzKQs0fJO3j8t6jVUIpZtrCmY5DEYiciXleUk0O2lg/edit?usp=sharing)\n\n---\nRead an evaluation of the Media Guild in Season 2 [here](https://docs.google.com/document/d/1CfKCl47EKrklTk1J-0nXylEu-L9JxF6Opi-85szCB7c/edit?usp=sharing).",
+        "choices": [
+          "Hell Yes",
+          "No"
+        ],
+        "start": 1649876400,
+        "end": 1650437940,
+        "snapshot": "14578868",
+        "state": "closed",
+        "author": "0xB91833386627cb178D99fEbad89236E35C0AD43f",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmX5ezs9wp53f2AixLMDLLPdppYTtDMMMCtxoCVqj53yy3",
+        "title": "Governance proposal: Expand Phil’s role",
+        "body": "\nThis is an addendum to my current role as Placemaker.\n\nI am proposing a full-time (100%) role at Cabin joining Zakk and Jon in the Meta Guild.\n\nThis whole experience has opened my eyes as to how organizations could run in an abundant, open, autonomous, and decentralized world. And I want to make a bigger commitment to it.\n\nI would continue my role as Placemaker (40%) and add an additional 3 days per week of work within the Meta Guild (60%).\n\n== Placemaker (existing - 2 days per week) ==\nMy role as the delegate of the Placemaker Guild would continue as is.\n\n== Meta Guild work (new - 3 days per week) ==\n\nMy goal within the Meta Guild will be making Cabin the most effective, joyous, and rewarding DAO in the Web3 ecosystem. This includes a) the DAO attracting, retaining, and getting the best work out of contributors b) the DAO setting an example for how a high-performing decentralized organization can function c) setting up the organization to best serve our mission of building a decentralized city.\n\nThe trad analog might be something along the lines of “COO.”\n\nWhat I’d try to tackle this Season in the Meta Guild:\n1) Discord structure & norms: How do we maintain a joyous and productive Discord filled with juicy warm Cabin vibes?\n2) Compensation: How do people earn in the DAO? How do we get more people making a living independently online? How do we award outsized contributions? How do we evolve the bounty system so that it's a fair and consistent way to earn?\n3) Prepping for the onslaught: What do we do when we have our “Vitalik wrote about us” moment and people come streaming into the Discord? What switch do we need to hit to batten the hatches and have this be a positive rather than negative event within the DAO?\n4) DAO Participation Dashboard: How do we measure whether we are succeeding in being an open, welcoming community that people want to be a part of? How do we measure the funnel of people coming into the Cabin Discord? As part of this, I’d like to build a contribution/engagement analytics system (i.e. people analytics). I’d like to create systems that hold us accountable toward improving these metrics every week/month/year.\n5) Governance thresholds: How do we put the appropriate level of governance against any given decision? What types of decisions should be Snapshot governance proposals? What type of decisions should be less severe? How can people know the difference to empower them to get the right amount of buy-in to move forward? [and how do we allow for legitimate dissent...]\n6) Budget process: How do we assign budget (Cabin + USDC) to the various Guilds or other efforts? How do we give community members tools and voice to hold the budget recipients accountable?\n7) Progressive decentralization: How do we progressively empower Guilds and Sub-Guilds? How do we create an ecology of internal cultures at Cabin?\n\n== Qualifications ==\n\n=Experience within Cabin=\n- Cabin’s first core contributor and Guild delegate.\n- Created and grew the Placemakers Guild, which is central to Cabin’s vision to be an Embassy for DAOs.\n- Designed the existing bounty system within the DAO.\n\n=Experience starting and caretaking decentralized organizations=\n- Have founded three intentional communities (2 purchased, 1 leased) - RGB, Radish, and Duck Cloud.\n- Helped start and grow Preservation Society - a Burning Man camp with over 300 members\n- Write Supernuclear a blog on how to create and manage intentional community\n\n=Experience with the future of cities=\n- Founding team of Culdesac - building the first post-car neighborhood in the US.\n\t- Drove financing, legal structuring, and brand for $170m, 1,000 person ground-up development in Tempe AZ.\n- Advisor/consultant to Kift\n\t- Created the business model and go to market plan for Kift's \"decentralized city\" based on camper vans\n\n== Position length ==\n\nI am requesting this as a 1-year position (Feb 1 2022 - Jan 31 2023) broken up by a 2-month paternity leave (uncompensated) in the May - September timeframe.  (note: This is not meant to be a precedent on leave, others may make different requests).\n\nThere will be a DAO-wide review at 4 months to ensure everyone is satisfied with the arrangement and if there are any adjustments needed. At this point, the DAO could vote to pause the agreement. \n\n=Compensation=\n\nI am requesting 500 Cabin per month direct compensation. I would like to take up to 50% in USDC. \n\nIn addition, I am requesting a time-locked token grant of 750 Cabin per month.  Here’s how the time-locked grant would work: \n- The token grant would vest each month (750 Cabin) that I continue to be in a full-time role with Cabin.\n- This token grant is meant to reflect a role alongside Zakk and Jon in the Meta Guild helping to coordinate the activities of the DAO as a whole.  \n- The tokens would be time-locked and unlock on a rolling basis 2 years after being issued. While they are locked, I can’t transfer them or sell them. The time-locked incentivizes me to create long-term value in the DAO and stay heavily involved. \n- The Meta Guild (with me recused) would decide on behalf of the DAO whether I am still sufficiently active to justify vesting the grant each month. Members of the DAO can share concerns privately with any member of the Meta Guild if they think the grant should not vest based on my contributions.\n",
+        "choices": [
+          "Hell yes",
+          "No"
+        ],
+        "start": 1646163096,
+        "end": 1646744400,
+        "snapshot": "14314819",
+        "state": "closed",
+        "author": "0x029EE42d381C9809493F34095235843625E46676",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0xd5c4b3d4925719a51a04204a69c229878dd342844a30f2ee4f3c2b443d2ed7b2",
+        "title": "Should Cabin adopt this Charter as an Unincorporated Nonprofit Association?",
+        "body": "We have been working with our legal team to put together a plan that will allow the DAO to have the legal standing to:\n\n• protect members (you!) from liability\n• pay appropriate taxes\n• enter contracts (like leasing Node 0)\n\nTo accomplish these goals, we are voting on adopting this Unincorporated Nonprofit Association Charter: https://docs.google.com/document/d/1WRzI2zKBsBqkpicZUwvL5Rg4Ia5eTIHgQJNR6r-McmU/edit?usp=sharing",
+        "choices": [
+          "Yes, adopt the Charter",
+          "No, reject the Charter"
+        ],
+        "start": 1644602400,
+        "end": 1645034400,
+        "snapshot": "14187128",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmV3ZtSQm6VEVpeSPDJwhdFwR3snkoKj2cKsdw1VKYS8hH",
+        "title": "Placemaker Season 2 Budget w/ Node Zero Lease",
+        "body": "Putting the Placemaker's Budget - including the USDC $110k 2-year lease of Node Zero up for a governance vote. \n\nThis was discussed on the Monday call. \n\nJon Hillis will abstain given this is a contract between Cabin and a property he has an ownership stake in.\n\nHere is a full writeup of the proposal including benchmarks. https://app.clarity.so/cabin/notes/db39233a-70e3-4737-962a-5745e8c90d87\n\nContact @phil with any questions",
+        "choices": [
+          "OMG Yes",
+          "Nah"
+        ],
+        "start": 1644411600,
+        "end": 1644534000,
+        "snapshot": "14169594",
+        "state": "closed",
+        "author": "0x029EE42d381C9809493F34095235843625E46676",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0x65c935b43072d8ee7c3852777add51ac07e6e4d78d0aadc88463538684843eb4",
+        "title": "Should we approve a 639₡ and $750 USDC Community Guild Budget for Season 2 to aim for these KPIs? ",
+        "body": "The Community Guild facilitators (Jackson and JonDean) are proposing a budget of 639 ₡ABIN and $750 USDC to scale their ability to facilitate community within the DAO and create a world-class DAO onboarding experience.\n\nThe Community Guild is tackling three core initiatives in Season Two (through Mar 31, 2022)\n\n- Supporting ongoing Community Operations.\n- Building out the Community Onboarding Curriculum and Processes\n- Launching Social Clubs and IRL meetups\nDetails on emerging bounties and tasks can be found on the Clarity Roadmap and most clearly in this excel spreadsheet:\n\nhttps://docs.google.com/spreadsheets/d/1u7O8M1OxVb2tRXfezFRo7F84vqoOqmzgcFYDXzxu6tM/edit#gid=0\n\nThe USDC allocation will cover up to five IRL events as part of the Social Club initiative. Tentative event locations are Los Angeles, New York City, (Miami or SF), Austin, and Toronto. For each IRL event, we are budgeting $150 USDC.  Our goal is to host these events at locations free of cost and allocate the USDC to cover light food and drinks for attendees.  Leftover USDC budget will be reallocated to the ₡ABIN treasury at the end of the season. \n\nIn addition to ₡ABIN reserved for pre-determined bounties earmarked for particular initiatives, we are also asking the community for an additional 300₡ as a discretionary budget controlled by Jackson and Jon Dean. We recognize that emergent strategy is a pillar of past CABIN success and want to have the ability to quickly fund community-related tasks as their need emerges. Leftover CABIN budget will be reallocated to the CABIN treasury at the end of the season. \n\nObjective: Scale the community building team’s ability to facilitate community & connection within the DAO.\n\nKR 1: Host five IRL event and host seven virtual events separate from weekly community calls, core contributor calls, and campfires.\nKR 3: Help 50 new members across the DAO complete a bounty in season two.\nKR 4: Create and iterate on a centralized onboarding hub complete with links, videos, and other information helpful for folks new to CABIN and web3.\nKR 5: Create standard operating procedures for hosting onboarding calls.\nKR 6: Host an end-of-season post-mortem call to determine the best activation, engagement, and retention metrics for future community seasons to track.\nKR 7 (Discord - for social club initiative): Weekly communicators in discord & weekly messages per communicator (as measured by dividing total messages sent / number of weekly communicators)\n",
+        "choices": [
+          "Hell Yes",
+          "No"
+        ],
+        "start": 1643931300,
+        "end": 1644276900,
+        "snapshot": "14135382",
+        "state": "closed",
+        "author": "0xb361356B0fc3E0805cf5eF4316EE4822a28A55D2",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0x39c8953a4dd450b88ead867eae1809a78de66af6ade6b129e3a1469722d8d8d8",
+        "title": "Should we approve a 2,097.50 ₡ + 530 USDC Media Guild Budget for Season 2 to aim for these KPIs?",
+        "body": "The media guild has put together a proposal to allow it to create impactful DAO operator content for Season 2. \n\nThis total bounty budget is more than twice the previous budget (720 ₡) for the media guild. The total unapproved ask is 1377.5 ₡. \n\nThe aim of this is to:\n• Pilot a new medium of content for Cabin (audio!)\n• Encourage experienced creators to contribute to the guild\n• Produce content that exponentially accelerates Cabin's narrative within the DAO ecosystem\n• Continue to grow the guild on a foundation of new and regular contributors, systems, and processes\n• Scale and decentralize our content and distribution systems without sacrificing quality\n\nWe will be measuring the KPIs of newsletter growth, retweets of podcast soundbite clips, and podcast downloads to determine our success.\n\nPlease see the full proposal for more details: https://app.clarity.so/cabin/work/252\n\nIn the full proposal, there is a breakdown of the budget by content vertical/squad, links to an itemized spreadsheet of the budget and initial podcast proposal.  \n\n",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1642741200,
+        "end": 1643173140,
+        "snapshot": "14050904",
+        "state": "closed",
+        "author": "0xB91833386627cb178D99fEbad89236E35C0AD43f",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0x604a2f76316d06fbe0ff8702d656b250d34393f6e9e22af630545fa9b3872c82",
+        "title": "Should we extend core contributor roles through the end of Season 2?",
+        "body": "This is a proposal to extend existing core contributor roles through the end of Season 2 as described below. The goals of the proposal are to fund core contributor roles throughout Season 2, provide an off-ramp to core contributors who are choosing to end their current roles, and get all core contributors onto the same seasonal timeline for future renewals. \n\nAll proposed roles will be at the same terms as existing roles (pro-rated @ 500₡ per month for 100% commitment, paid up to 50% equivalent in USDC).\n\nHere are the proposed renewals:\n\n• @jon hillis — Caretaker: 100% time commitment (no changes)\n\nOriginal approval: https://snapshot.org/#/cabindao.eth/proposal/QmRw1z13s2ULL9vmK5iDt1kdygvcGkKF3s7Yke8SaKbj5s\n\n• @zakk — Guild Facilitator: 100% time commitment (role title change) \n\nOriginal approval: https://snapshot.org/#/cabindao.eth/proposal/QmRw1z13s2ULL9vmK5iDt1kdygvcGkKF3s7Yke8SaKbj5s\n\n• @phil — Placemaker: 40% time commitment (no changes) \n\nOriginal approval: https://snapshot.org/#/cabindao.eth/proposal/QmbmAcXJvnB7uQAXTGCLzhN71Y4xrZpAzbc96MPkM63KAn\n\n• @roxine — Media Guild Facilitator: 40% time commitment (role title change and increased commitment by 20%) \n\nOriginal approval: \nhttps://snapshot.org/#/cabindao.eth/proposal/0xf741163efe56754fb457fbccdf4b257b17c320024e7714c120f4cc0c7c907772\n\n• @dfmerin — Coin Alchemist: 20% time commitment (no changes)\n\nOriginal approval:  https://snapshot.org/#/cabindao.eth/proposal/0x266de7432a04d02088504829663ac783b04d7b8271dc26452c3c16fb251cfe68\n\nNote that two core contributors, @mel_being and @dug have decided to step aside as core contributors when their current term expires next month. Do not fear! Mel and Dug will still be here with us. As the DAO grows, they have made the thoughtful decision to continue working with the DAO as individual contributors earning bounties, instead of in a core contributor coordination role. Big ups to both of them for realizing what they wanted and manifesting the right role for themselves 😁 \n\nThe two other core contributors, @Jackson and @JonDean, will not be a part of this proposal since their more recent roles have already been approved through the end of Season 2.",
+        "choices": [
+          "Hell Yes",
+          "No"
+        ],
+        "start": 1642788000,
+        "end": 1643133600,
+        "snapshot": "14050212",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0xd8feb9a29f62d8b12f5b08c4cbfb23535d977153543c7b236bd4da2fb72d5d64",
+        "title": "Should we set up a supplemental Uniswap v2 pool as a backstop to ensure there is ample two sided liquidity by month end?",
+        "body": "As the liquidity proposal shared in Clarity (https://app.clarity.so/cabin/notes/2b24f873-eaff-46a8-a800-1ab3cce6362a) is a medium term strategy and we have near term liquidity needs, it could make sense to provide two sided liquidity in the very near term in the likely event that it takes more than two weeks for our full strategy to play out.\n\nAt the current price, this would require 2,273 ​​₡ABIN and 10 ETH, which we would need to purchase with USDC in the treasury as we do not currently hold sufficient ETH in the treasury to cover this.  \n\nNote: the current price is the same in ETH terms as when we did the Treasury diversification, though the dollar value of ETH has fluctuated.\n",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1642467600,
+        "end": 1642640400,
+        "snapshot": "14026032",
+        "state": "closed",
+        "author": "0x282173335ae1F328b34Eb9Acadc052E59E70A89f",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0xcde197101c1dc3f68f00a2f53c5be57518bdbc36d3bab65fef42078365d021cd",
+        "title": "Should we provide upside liquidity in Uniswap v3?",
+        "body": "In line with the liquidity proposal shared in Clarity (https://app.clarity.so/cabin/notes/2b24f873-eaff-46a8-a800-1ab3cce6362a), should the DAO proved 25,000 ₡ABIN upside liquidity within the range of the current price and a top end of the range that equates to a fully diluted valuation of $100M (currently 0.0316 ₡ABIN per ETH)?\n\nThe aim of this is to materially deepen the liquidity for ​​₡ABIN and make it easier for more people to buy in to the DAO.\n\nFor context, we currently have 709,952 ₡ABIN in our treasury at cabindao.eth and this would increase the DAO treasury’s ETH holdings by ~260 ETH if we exit at the top end of that range.\n",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1642467600,
+        "end": 1642640400,
+        "snapshot": "14026018",
+        "state": "closed",
+        "author": "0x282173335ae1F328b34Eb9Acadc052E59E70A89f",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0xd1be1e1476a88e3ebfbcaa4d71e0514dd7b3baf6257bb22d6ee3d769f8e8366d",
+        "title": "Contributor Role Proposal: Co-Community Builders (Jon Dean & Jackson)",
+        "body": "Jon Dean and Jackson would like to propose co-owning the community builder role.\n\n## Role length\nUntil the end of Season 2 (March 31st) - extendable if everyone (including both of them) is still stoked.\n\n## Role Description\nCommunity builders act as the voice, tone, and internal moderators of the Cabin brand through community support, content circulation, onboarding, and digital engagement to build trust and to help provide members with a sense of agency to contribute to the DAO’s overall mission of building a decentralized city for independent online creatives.\n\nMost urgently, community builders onboard new Discord members and token holders so that they feel connected to the DAO, understand its systems, and are empowered to work on projects that excite them. This can be done for both Cabin and the larger web3 ecosystem.  \n\nBeyond onboarding, we curate culture by serving members’ needs, fostering a collaborative environment, facilitating connections, and moderating the community. \n\nSuccess to us means that members of Cabin are excited about contributing to the DAO ecosystem and are able to easily find the resources they need to do their work.\n\n## Core Responsibilities\n### High Level\n- Found & lead the new community guild\n- Issue bounties to help complete the other responsibilities of the role.\n- Moderate the discord server\n- Find someone within the DAO to lead social clubs and empower them to succeed.\n- Create thoughtful pathways for DEI\n- Onboard new members by\n- Designing an onboarding process from first principles\n- Creating infrastructure for multi-layered onboarding\n- DAO onboarding\n- Guild onboarding\n- Project onboarding \n- Adding a “reboarding” component to the onboarding workflow.\n- Working with the media guild to help members easily access, navigate, and digest useful resources.\n\n### Specific projects\n- Revamp discord structure and onboarding to create a choose-your-own adventure style of onboarding.\n- Implement bots and automation as needed\n- Work with the writers/media guild to make documentation super clear and accessible for new members.\n- Create structure for “Therapy” (office hours) for folks who have questions, want to voice an opinion, want to “reboard,” or need to be directed in a certain direction.\n- Identify and start measuring metrics that indicate the health of the CABIN community.\n- Integrate a web3 job board into a seamless workflow for fulfilling bounties \n- Develop and iterate on a process/regular cadence for onboarding new members every week\n- Building out a formal orientation framework with a “first day of camp” mindset\n- Build checklists (packing list!) for onboarding\n- Iterate on a scalable model for onboarding that becomes “multi-layered” and extends to the DAO, Guilds, and Projects\n- Social clubs entail virtual and IRL meetups\n\n## Qualifications\n### Jon Dean\n- 3 years as the Lead Brand Ambassador for Indego Bike Share. Focused on community engagement to bring awareness and accessibility to affordable and sustainable transportation options across Philadelphia \n- Philadelphia-based Compass real estate agent and investor focused on providing high-quality client experiences to residential and commercial buyers, sellers, investors, and renters. Served over 300 clients as a certified Green Realtor\n- Community advocate across numerous local Philadelphia orgs. Assisted with community engagement, lead stakeholder charrettes, sat on the steering committee for public space renovation projects, biking infrastructure improvements, housing/zoning policy meetings for RCOs, and helped distribute loan assistance programs in partnership with the City of Philadelphia to connect landlords with capital who were impacted by COVID-19 \n- Managed co-living experiences for a start up and assisted with real estate services and customer service relations\n- Managed 25-person staff and a fleet of 5 pedacycles over 9 distinct routes and oversaw customer relations for tourism company in Philadelphia\n- Designed, adapted, and led tour programming for potential students, community members, and visitors as a University of Wisconsin - Madison admissions tour guide\n \n### Jackson\n- Builder, storyteller, and technologist with eight years of experience working for early-stage tech, media, and international development organizations.\n    - Three years of participating, building & organizing in startup communities, including virtual onboarding of the 2020 Venture For America Philadelphia class.\n    - Currently building out an audio arm at On Deck - a community-first tech company.\n2018 Venture for America Fellow - fellowship for those who want to learn how to build a business while making an impact in an emerging US city. Training includes both hard and soft skills likely to be needed at a tech startup.\n    - Numerous other media-specific projects and leadership roles, read more here.\n    - Three years of Growth experience + leadership at a Philly-based startup.\n- Hosted the first half-dozen CABIN Spaces.\n- Joined CABIN during the first crowdfund over the summer.\n \n## Compensation\nCommunity-management is a 40/hour week commitment that Jon Dean and Jackson anticipate splitting 50-50 to start (with the possibility of adjusting that distribution over time). They are requesting combined compensation of 500₡ (or up to 50% equivalent in USDC) split evenly per month, up for renewal in 3 months. ",
+        "choices": [
+          "Heck yes",
+          "No"
+        ],
+        "start": 1641578400,
+        "end": 1641837600,
+        "snapshot": "13959454",
+        "state": "closed",
+        "author": "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0xe981476b3f6e067cab475b384a01266cfeb0322406857477e7793ed87f78fbe0",
+        "title": "Should we adopt the proposed Cabin 2022 Roadmap?",
+        "body": "This is a proposal to adopt the Cabin 2022 Roadmap, developed at the recent Cabin core contributor retreat, as our community's plan and goals for the next year:\n\nhttps://app.clarity.so/%E2%82%A1ABIN/pages/729a5519-99d7-491d-90ef-95a4556aebe3\n\nOur DAO is made up of organizational slime molds which operate most effectively with high degrees of autonomy to chart paths towards a shared north star. As an artifact of our first retreat, this roadmap is a proposal for a shared set of priorities that will help us chart that path.\n\n10 year goal: build a decentralized city for independent online creators\n1 year goal: build an embassy for DAOs\n\n2022 Objectives:\n\n1. Establish embassies and ambassadorships to foster collaboration across the DAO ecosystem\n\ni. Double the capacity of our Node 0 Embassy & establish playbook for future nodes\nii. Recruit and develop operator ambassadors representing over a dozen top DAOs in the ecosystem\niii. Gather knowledge from the ambassador network and turn it into the #1 source for DAO operator content\n\n\n2. Host conferences, retreats, and events to bring DAO operators together IRL at Cabin nodes\n\ni. Run at least 25 retreat programs that accelerate DAO core teams\nii. Host and participate in all of the top 5 DAO conferences and camps of the year\niii. Evolve our residency program to support DAO operators and run at least 4 cohorts\n\n\n3. Build products that support the development of the DAO ecosystem\n\ni. Develop the hardware and software infrastructure for an NFT-based Passport system\nii. Launch and grow the top destination for DAO content aggregation\niii. Build a decentralized product development engine that enables us to iteratively test DAO tooling\n",
+        "choices": [
+          "Hell Yes",
+          "No"
+        ],
+        "start": 1639756800,
+        "end": 1640041200,
+        "snapshot": "13823574",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0x365b27b4406b27864bb700e0ba660c4138aca70a96bee8ecee1d046cffc05b71",
+        "title": "Should we approve a 7,500 ₡ Bounty Budget for the next quarter?",
+        "body": "The bounty working group has put together a proposal to cement the DAO as bounty first.  See here for more details: https://app.clarity.so/%E2%82%A1ABIN/notes/512f95cf-2128-4dd2-9234-86030f69af19\n\nThe 7,500₡ budget will be apportioned as follows:\n1,500₡ for the Meta Guild (Delegate: Jon and Zakk)\n720₡ for the Writer's Guild (Delegate: Roxine)\t720\n2,500₡ for the Product Guild (Delegate: Zakk)\n872₡ for the Placemaker's Guild (Delegate: Phil)\n1,908₡ for the General Bounty Pool\n\nDetailed proposals are available from the aforementioned Delegees.\n\nThis total bounty budget is >2.5x the ₡ABIN budgeted for the core contributors and the aim of this is to facilitate broad based contribution among the DAO.\n\n",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1637503200,
+        "end": 1637697600,
+        "snapshot": "13659025",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0xbb49ed5aacaa43a40ea830a2909a92c0a6f942ed612c938bd7734c4879c01c63",
+        "title": "Would you like us to restart the Uniswap ₡ABIN-ETH liquidity pool??",
+        "body": "With our Treasury diversification recently completed and many prospective community members clamoring to join the DAO, we propose the DAO restart the Uniswap ₡ABIN-ETH liquidity pool ASAP.\n\nIn the simple version of the proposal, we would restart the pool with 5 ETH and a corresponding amount of ₡ABIN based on the price of ETH at the time and the price of ₡ABIN in the treasury diversification.  \n\nOver time, we hope to explore additional liquidity options, but believe this to be the quickest place to restart and re-open our community.\n\nDue to the urgency, the timing on this vote will be 24 hours.\n\n",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1636561800,
+        "end": 1636648200,
+        "snapshot": "13589487",
+        "state": "closed",
+        "author": "0x282173335ae1F328b34Eb9Acadc052E59E70A89f",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0xfec955278f85e3c05794f131370db3e979469c075afb895104e42e8876e7d76d",
+        "title": "Contributor Role Proposal: Bit Sage",
+        "body": "# Contributor Role Proposal: Bit Sage (Dug / Corey)\n\nDug would like to propose the following CabinDAO contributor role with the title of Bit Sage for themselves:\n\n## Role length\n3 months to start, extendable if everyone is stoked.\n\n## Role Description\nA cross-disciplinary builder who can take concepts from early inspiration to final product. Motivated by novel challenges and new opportunities, they’re constantly learning and expanding their skillsets. They are someone who is able to contribute across the entire product development lifecycle and can provide value across various organization needs.\n\n## Core Responsibilities\n\nHigh Level\n- Collaborate on product at all levels \n- Participate in defining what Cabin builds, why we’re building it, and how we will build it.\n- Play an active role in executing that product vision.\n\nSpecific projects\n- Complete the physical passport project\n- Build out the v2 website, moving off Squarespace, to GitHub\n- Build out a Cabin UI design system for use on future product initiatives\n- Work with Zakk in establishing the product guilds presence on GitHub\n\n## Qualifications\n\n- Have a formal education and 4 years experience in Industrial Design\n- Have 9 years experience in Digital Product Design\n    - 7 years at an product agency\n    - 2 years freelancing (ongoing)\n- Have 3 years experience in Frontend Development \n    - React, React Native, Angular\n    - Styling and implementing design systems\n- Gaining experience in Smart Contract Development w/ Solidity & Ethereum\n    - Participating in the ConsenSys Blockchain Developer Bootcamp (ongoing)\n    - Member of Solidity Guild \n- Have experience bootstrapping my own product company (ongoing)\n    - Lots of hats: design, development, marketing, customer support, sales\n    - Participation in Pioneer and OnDeck\n- Have been with Cabin since the initial Season 1 fundraise\n    - Collaborating with the community\n    - Contributing to bounties including the treasure chest, branding, website redesign, and physical passports.\n\n## Compensation\n\nDug anticipates spending 25% of their time (10 hours per week) on this role and is requesting compensation of 150₡ (or up to 50% equivalent in USDC) per month, up for renewal in 3 months.",
+        "choices": [
+          "Heck Yes",
+          "No"
+        ],
+        "start": 1636390800,
+        "end": 1636581600,
+        "snapshot": "13578056",
+        "state": "closed",
+        "author": "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0x215ff15f587ec9395cc586beeff225c1c520a28c0b41ea670c76892d6bfdf170",
+        "title": "Contributor Role Proposal: Pixel Mage",
+        "body": "# Contributor Role Proposal: Pixel Mage (Mel Shields)\n\nMel Shields would like to propose the following CabinDAO contributor role with the title of Pixel Mage for themselves:\n\n## Role length\n\n3 months to start, extendable if everyone is stoked.\n\n## Role Description\n\nA designer who is confident in supporting visual and graphic design needs at Cabin. Can lend a hand not only the visual brand, but also help distill complex technology into a simple experience across all of Creator Cabin’s products and assets.\n\n## Core Responsibilities\n\n- Help shape and develop the Creator Cabin brand across digital and physical properties\n- Collaborate with the product team and ship UX/UI designs for our digital products\n- Support content creators by distilling complex topics visually \n- Be a creative resource in the community for the myriad of projects that come through\n\n## Qualifications\n\n- Has collaborated with the community and helped Cabin with a number of bounties including the Treasure Chest, Brand Guide, Passport NFTs, Onboarding, Writers guild creative support\n- 8+ years experience shipping UX/UI designs for a variety of companies and industries\n- 8+ years experience in branding / graphic design / illustrative work that demonstrates the ability to visualize complex systems\n- Strength in aesthetics layout, information architecture, typography and iconography\n\n## Commitment & Compensation\n\nMel anticipates spending 25% of their time (10 hours per week) on this role and is requesting compensation of 150₡ (or up to 50% equivalent in USDC) per month, up for renewal in 3 months.",
+        "choices": [
+          "Heck Yes",
+          "No"
+        ],
+        "start": 1636390800,
+        "end": 1636563600,
+        "snapshot": "13576112",
+        "state": "closed",
+        "author": "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0x266de7432a04d02088504829663ac783b04d7b8271dc26452c3c16fb251cfe68",
+        "title": "Contributor Role Proposal: Coin Alchemist",
+        "body": "#  Contributor Role Proposal: Coin Alchemist (Dave Merin)\n\nDave Merin would like to propose the following CabinDAO contributor role with the title of Coin Alchemist for themselves:\n\n## Role length\n3 months to start, extendable if everyone is stoked.\n\n## Role Description\n\nFormulate strategy, gather feedback, and lead implementation of the DAO's goals for token strategy, treasury management and finances.\n\n## Core Responsibilities\n\n- Propose and implement liquidity management strategies\n- Propose ways to increase the utility of the ₡ABIN token in a compliant way\n- Propose a token distribution strategy and incorporate feedback from the DAO on said proposal into a final strategy to implement\n- Lead / steward a conversation around treasury management strategies & tradeoffs, including helping manage the liquidity pool\n- Assist with management of the DAO multi-sig\n- Assist other DAO core contributors with partnerships and treasury diversification work\n- Support planning for physical site buildout and other aspects of DAO financial planning/budgeting/accounting\n\n## Qualifications\n\n- Previously [proposed](https://snapshot.org/#/cabindao.eth/proposal/QmSLmWNeAgxtiGWDgWmvULaqKVYUsqWLacXZ9nCNyC8L6L) and helped set up the [initial Cabin Uniswap pool](https://app.uniswap.org/#/add/ETH/0x94515e4f6fabad73C8bCdd8cd42f0b5C037E2c49/3000), [proposed a future token model](https://www.notion.so/Preliminary-Cabin-v2-Token-Proposal-94017428dbb84ee7a2f5ce3c83117d91), and [assisted with several aspects of the migration to Cabin v2 and associated Treasury Diversification](https://snapshot.org/#/cabindao.eth/proposal/QmbRbQKUS65GqC3H7BcuBcFvhGx7rrAqRUUvxUiwxgPLWB).\n- Several years spent working in crypto / web3, including experience with nine figure token treasury management at ConsenSys and startup token design at Coven\n- Prior experience leading finance at an early stage technology company\n\n## Compensation\n\nDave anticipates spending 20% of their time (8 hours per week) on this role and is requesting compensation of 100₡ (or up to 50% equivalent in USDC) per month, up for renewal in 3 months.\n\n",
+        "choices": [
+          "Heck Yes",
+          "No"
+        ],
+        "start": 1636390800,
+        "end": 1636563600,
+        "snapshot": "13576071",
+        "state": "closed",
+        "author": "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "0xf741163efe56754fb457fbccdf4b257b17c320024e7714c120f4cc0c7c907772",
+        "title": "Contributor Role Proposal: Consigliere (Roxine)",
+        "body": "Roxine Kee would like to propose the following CabinDAO contributor role with the title of Consigliere for themselves: \n\n## Role length\n3 months to start with a measurable scope and short feedback loop.\n\n## Role Description\n\n[Roxine's proposed role description can be found here.](https://app.clarity.so/%E2%82%A1ABIN/notes/0373714c-72e7-4639-b2ce-78fc6aea5282)\n\n## Core Responsibilities\n\n[Roxine's proposed responsibilites can be found here.](https://app.clarity.so/%E2%82%A1ABIN/notes/0373714c-72e7-4639-b2ce-78fc6aea5282)\n\n## Qualifications\n\n[Roxine's qualifications can be found here.](https://app.clarity.so/%E2%82%A1ABIN/notes/0373714c-72e7-4639-b2ce-78fc6aea5282)\n\n## Compensation Requested\n\nRoxine anticipates spending 20% of her time (8 hours per week) on this role and is requesting compensation of 100₡ (or up to 50% equivalent in USDC) per month, up for renewal in 3 months.",
+        "choices": [
+          "Heck Yes",
+          "No"
+        ],
+        "start": 1635955200,
+        "end": 1636059600,
+        "snapshot": "13545884",
+        "state": "closed",
+        "author": "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmbRbQKUS65GqC3H7BcuBcFvhGx7rrAqRUUvxUiwxgPLWB",
+        "title": "₡ABIN minting and treasury diversification",
+        "body": "## Summary \n\nWe propose that the DAO mint 1,000,000 ₡ABIN and replace the current CABIN token. If approved, the DAO will distribute up to 21% to existing CABIN holders, swap up to 10% with strategic partners in exchange for $2,500,000 USDC, and hold the remaining portion in the DAO treasury.\n\n## Motivation\n\nThe original CABIN token was distributed to serve as a governance mechanism for a 3-month experimental residency program for independent online creators. While this program has been a huge success, the token itself is no longer sufficient for the community that has grown around it. This proposal calls for a new token, ₡ABIN, which will allow us to:\n\n- Establish a larger token supply to account for the increased size of the community\n- Maintain more of the token supply within the DAO treasury to support future contributors\n- Diversify the treasury with stable assets that can be used to compensate community members\n- Allow the DAO to mint more ₡ABIN in the future\n\nOver the past month, we have discussed these goals extensively as a community and have achieved rough consensus  around the following plan. \n\n## Specification\n\nMint 1,000,000 ₡ABIN to replace the existing CABIN token (0x94515e4f6fabad73c8bcdd8cd42f0b5c037e2c49)\n\nDistribute ₡ABIN as follows (all remaining ₡ABIN not accounted for below will remain in the DAO treasury):\n-  Distribute approximately 11% of supply to existing CABIN holders\n\t- Existing holders are eligible to receive 3.2 ₡ABIN for each CABIN held as of the snapshot\n\t- Existing holders who participated in governance will receive an additional 10% compounding multiplier per governance vote as of the snapshot\n- Distribute 10% of supply to founders\n\t- Zakk (zakk.eth) and Jon (hillis.eth) will each receive 50,000 ₡ABIN, subject to vesting conditions\n- Distribute 10% of supply to strategic partners at an implied fully diluted token valuation of $25M \n\t- Execute a treasury diversification by swapping 100,000 ₡ABIN for $2.5M USDC into the DAO treasury\n    - The full list of participants, including dozens of operators from across the DAO ecosystem and community members [can be found here](https://docs.google.com/spreadsheets/d/1q35NNXJpHsEbQjEsnBdYFxVSv1QyZ0JcKYwqMxlSRHo/edit?usp=sharing)\n\t- The largest participants in this treasury diversification (subject to vesting conditions) are:\n\n| Partner  | Allocation |\n| ----------- | ----------- |\n| Multicoin Capital (Vishal Kankani) | 40,000 ₡  |\n| Awesome People Ventures (Julia Lipton) | 10,000 ₡ |\n| Seed Club Ventures (Nima Asghari) | 10,000 ₡ |\n| IDEO CoLab (Reuben Bramanathan) | 10,000 ₡ |\n| SHL Capital (Sahil Lavingia) | 4,000 ₡ |\n| El Cap (Kunal Tandon) | 4,000 ₡ |\n\n- Vesting conditions\n\t- The supply distributed to existing CABIN holders in exchange for ₡ABIN will not have vesting conditions\n\t- All remaining grants (founder + strategic partner) greater than or equal to 4,000 ₡ will be subject to a vesting period with 50% vested after one year and the remaining 50% vested after the second year from the date of proposal approval\n\n## Closing Thoughts\n\nThis proposal represents both an important moment for Cabin. It represents the impact we've had through our residency program. It also shows the strength of the community we've built: 42% of the contributors to the treasury diversification were existing DAO members and combined they are contributing 66% of the total funds. The most important thing this proposal represents is what we get to do next: build cool shit.\n\nYour vote is the most important investment that can be made here. It signals your commitment to this next chapter of Cabin. Let's build!\n\n## Vote\n\nHell Yes - Vote Hell Yes to approve the proposal\nNo - Vote No to reject the proposal\n",
+        "choices": [
+          "Hell Yes",
+          "No"
+        ],
+        "start": 1635202800,
+        "end": 1635526800,
+        "snapshot": "13489258",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmbmAcXJvnB7uQAXTGCLzhN71Y4xrZpAzbc96MPkM63KAn",
+        "title": "Contributor Role Proposal: Placemaker",
+        "body": "# Contributor Role Proposal: Placemaker (Phil Levin)\n\nPhil Levin would like to propose the following CabinDAO contributor role with the title of Placemaker for themselves:\n\n## Role length\n\n3 months to start, extendable if everyone is stoked.\n\n## Role description\nI would help bring to life the physical manifestation of Cabin DAO's decentralized city.\nMuggle analogue: Maybe \"real estate developer\" ?\nMy job is to bring clarity and flesh out detail around the idea that Cabin DAO is building a decentralized city of physical nodes linked to an online community.\nAnd once that's clear, I'd put machinery into place (e.g. projects, bounties) where the members of the DAO can contribute to the effort.\nAlso, I'd help us LARP harder as a city-state. KPIs: Lolz and memes.\n\n## Core responsibilities (first 3 months)\n- Facilitate discussion and create alignment within the DAO on what we mean by \"decentralized city\" and how it might operate in practice.\n\t- How do the physical nodes interact with the online community?\n\t- How many nodes do we want over time? How will we acquire/finance/manage them?\n\t- How will the nodes be used in future seasons? Who gets to use them? What does Cabin DAO get in return?\n\t- What's the legal framework?\n- Break down plan into a series of Projects and Bounties for next 1-2 seasons\n- Establish norms of usage at Hill Country e.g. Welcome Guide for guests\n- Pursue further development of the Hill Country node (e.g. new cabins?)\n- Engage with other groups interested in creating physical spaces associated with Cabin network\n- Get our remaining Season 2 Passports sold\n\n## Qualifications\n\nI've spent the last 5 years using real estate to create community and belonging.\n\nCreative real estate development (day jobs):\n\n- Founding team of Culdesac - building the first post-car neighborhood in the US.\n\t- Drove financing, legal structuring, and brand for $170m, 1000 person ground-up development in Tempe AZ\n- Advisor/consultant to Kift\n\t- Created the business model and GTM plan for Kift's \"decentralized city\" based on camper vans\n\nIntentional communities (passion projects):\n- Have started 3 intentional communities (2 purchased, 1 leased) - RGB, Radish, and Hinterlands\n- Write Supernuclear a blog on how to create and manage intentional community\n\n## Compensation request\nI anticipate spending 40% of my time over the next 3 months and would request to be compensated 400₡ split 50/50  between ₡ and USDC.\n\n",
+        "choices": [
+          "Aprove",
+          "Deny"
+        ],
+        "start": 1634745600,
+        "end": 1634918400,
+        "snapshot": "13456992",
+        "state": "closed",
+        "author": "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmRw1z13s2ULL9vmK5iDt1kdygvcGkKF3s7Yke8SaKbj5s",
+        "title": "Founder Role Proposal",
+        "body": "Things are moving quickly for CabinDAO! We've started Seed Club, the last cohort of creators is wrapping up, and we're starting to talk with potential capital partners about diversifying our treasury. For these reasons (and many more), Jon and Zakk would like to put forward a governance proposal for their full-time commitments to the DAO. These roles would be backdated to October 1st, 2021.\n\n## Jon's Role as Caretaker\n\nJon's role as Caretaker of the DAO will have him taking on what ever task need to be done to move the DAO forward. Recently, that has covered things like: speaking with potential capital partners, establishing partnerships with other DAOs, and facilitating DAO meetings.\n\nA full description of Jon's role as [Caretaker can be found here](https://app.clarity.so/%E2%82%A1ABIN/pages/7288a174-5f2d-470a-9283-6196a63a1009). Jon is requesting compensation of 1000 ₡ (or up to 50% equivalent in USDC) per month, up for renewal in 3 months.\n\n## Zakk's Role as Leader of the Guilds\n\nZakk's role as Leader of the Guilds will have him building out our functional capacity. This has recently involved speaking with potential partners about paid projects for DAO members, kicking off our first product with a design challenge, and establishing a process for product development of emergent products.\n\nA full description of Zakk's role as [Leader of the Guilds can be found here](https://app.clarity.so/%E2%82%A1ABIN/pages/435362a4-8dc7-42bb-bb86-e6be25370ef5). Zakk is requesting compensation of 1000 ₡ (or up to 50% equivalent in USDC) per month, up for renewal in 3 months.",
+        "choices": [
+          "Approve",
+          "Deny"
+        ],
+        "start": 1634140800,
+        "end": 1634313600,
+        "snapshot": "13410549",
+        "state": "closed",
+        "author": "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmYbvFBmsjMi1tLh1d3BotAm9pYpjLjqb8LGewjWArDNTC",
+        "title": "Should Cabin DAO join Seed Club?",
+        "body": "Cabin DAO has been offered a spot in Seed Club (https://seedclub.xyz/) for Cohort 3. Seed Club is a 6 week cohort based program that brings together a network of social token, web3, DAO and creative economy pioneers and experts to help design, launch and grow social token based projects. Each week we will have access to two 90-minute sessions, plus coaching, workshops and networking aimed at helping you shape and execute our social token project. \n\nSeed Club aims to create value beyond the 6-week program through participating and supporting our community. They take active roles in governance and endeavor to build a community that supports projects throughout the lifecycle of the project and beyond. \n\nIn exchange for participation in Seed Club, we would contribute 3% of $CABIN tokens to the Seed Club Treasury. Given the existing supply of $CABIN, this would mean transferring 1,079 $CABIN from Cabin DAO to Seed Club. In exchange for this, in addition to program and network support, Cabin DAO will be rewarded with membership  & ownership in Seed Club as well. ",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1632164400,
+        "end": 1632250800,
+        "snapshot": "13264334",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmbpnruuLvL59tjUtY2RE8V3QeciizCXnHofwtx9N9q86p",
+        "title": "Approve Season 2: Multiplayer Mode",
+        "body": "Review the proposal on Mirror:\n\nhttps://creators.mirror.xyz/qMIwOwLxAmY9KV_wobNFOjFnzw3ZbVb5N_aD3vJgfBQ",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1631552400,
+        "end": 1631638800,
+        "snapshot": "13218653",
+        "state": "closed",
+        "author": "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmYVA5uBZ7LCKrJbQ2pxgs7ucZht6wRCRGBKrZvtvvfRbQ",
+        "title": "Which creators should we grant residencies in Cohort 3?",
+        "body": "\nSee the full list of final round creators and their applications here: https://creators.mirror.xyz/BJUF8ygnbQY1rqpoClAsSRik0ffZdmF5LTPEGWq6gCU",
+        "choices": [
+          "@roxinekee_",
+          "@etiennefd",
+          "Nathan Grant",
+          "Akshaj Jois",
+          "@greydient_music",
+          "@dela3499",
+          "@KellyClark2021",
+          "@uxceo",
+          "@shei_p",
+          "@_streamerd"
+        ],
+        "start": 1630472400,
+        "end": 1630645140,
+        "snapshot": "13140093",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmTpjju3Chm9HoQYyJjtrPmxJkjRFTVsRUzSBsDbB6oXWP",
+        "title": "Should we set up a discretionary growth budget of 1,000 $CABIN??",
+        "body": "BACKGROUND:\nBounties and incentives are a way for us to invest our token supply into our community as a means of growing it. We would like to propose a budget of 1,000 $CABIN that the DAO can use as discretionary spending for this purpose.\n\nSome examples of things we'd like to use with this discretionary budget include:\n\n1. A residency referral bonus\n2. Blog/article writing\n3. Bounties\n\nPROPOSAL:\n\n1. We propose a discretionary growth budget of 1,000 $CABIN.\n2. We also propose that this budget be spent \"at the DAO's discretion\" (so without formal voting). The process we'd like to follow is \"straw poll\" voting in Discord: we'll create a proposal as a message here in #governance. if people agree they should give a thumbs up on the proposal. if people don't agree, we have an open a discussion about trade-offs and alternatives. If we don't hear within 24 hours, then we proceed.\n3. Finally, We propose that this budget last until November 5, 2021 (approximately one week after the end of Cohort 3).",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1629997200,
+        "end": 1630083600,
+        "snapshot": "13102316",
+        "state": "closed",
+        "author": "0xC3268DDB8E38302763fFdC9191FCEbD4C948fe1b",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmRnsb8avuC4fyVM4eSsjzn8ZQwrE9qqXwq78tLoBf6KPP",
+        "title": "Should we deepen the $CABIN liquidity pool?",
+        "body": "BACKGROUND:\n\nWe set up a liquidity pool for $CABIN from the DAO treasury as a result of the governance vote here: https://snapshot.org/#/cabindao.eth/proposal/QmSLmWNeAgxtiGWDgWmvULaqKVYUsqWLacXZ9nCNyC8L6L\n\nYou can see the current liquidity pool transactions here: https://info.uniswap.org/#/pools/0x08c649d687efcfb8352541a48037139125d3a953\n\nPROPOSAL:\n\nAdd 1 ETH and up to 1000 $CABIN from the Cabin DAO treasury to the Uniswap liquidity pool at a max price of 2.5 $CABIN/ETH and a min price of 250 $CABIN/ETH\n",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1629306000,
+        "end": 1629392400,
+        "snapshot": "13049990",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmSLmWNeAgxtiGWDgWmvULaqKVYUsqWLacXZ9nCNyC8L6L",
+        "title": "Should we set up a liquidity pool for $CABIN",
+        "body": "We have discussed setting up a Uniswap liquidity pool for $CABIN to allow for more people to join our community.  Given the progress the community has made over the past couple of months, it makes sense for the price to have appreciated from the initial 1 ETH : 1000 CABIN ratio, though there is a question of how much it should have appreciated (e.g., 1 ETH : 100 CABIN = 10x increase, 1 ETH : 500 CABIN = 2x increase).  Of course, the market will bring this to equilibrium once the pool is launched.\n\nAs a first step, we'd propose to use 1 of the 3 ETH from the Treasury for this experiment and an associated amount of CABIN (currently 12k in Treasury).\n\nDo you agree with this plan?  If so, where should we set the initial price?",
+        "choices": [
+          "Yes @ 1 ETH : 100 CABIN",
+          "Yes @ 1 ETH : 250 CABIN",
+          "Yes @ 1 ETH : 500 CABIN",
+          "No"
+        ],
+        "start": 1628449200,
+        "end": 1628794800,
+        "snapshot": "12986088",
+        "state": "closed",
+        "author": "0x282173335ae1F328b34Eb9Acadc052E59E70A89f",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmWqp8woxHYHQGYzJP3v4Z3uPpwpmfvfUUyuFJXPj9ScKu",
+        "title": "Which creators should we grant residencies in Cohort 2?",
+        "body": "See the full list of creators and their applications for final voting here: https://creators.mirror.xyz/2nr4ekrOLKoygXD2msj462XGj44PdEQNTdbwwH8-XMk",
+        "choices": [
+          "@1ofthemanymatts",
+          "@patsmmrs",
+          "@mote_humans",
+          "@bonbasso",
+          "@thatsTayo",
+          "@bweyi",
+          "@mslacmf",
+          "@strangestloop",
+          "@thetagan",
+          "@tomhyde_",
+          "@dela3499",
+          "@etiennefd",
+          "@iamlizendary"
+        ],
+        "start": 1627923600,
+        "end": 1628269200,
+        "snapshot": "12952879",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmdExvZE7ejTgmXz92a6pJAZzqqnRedSAjYHq3pSr7txa4",
+        "title": "Which creators should we grant residencies in Cohort 1?",
+        "body": "\nSee the full list of creators and their applications here: https://creators.mirror.xyz/svifGkJR3P6sRekw6McPGQ3OL0JjPIf8HAUfir5pWpQ",
+        "choices": [
+          "@manisharoses",
+          "yoel",
+          "@gentoftech",
+          "alpha",
+          "@bysarasalam",
+          "@willsnotebooks",
+          "@Poni184",
+          "@smooth_jasmine",
+          "@feklee",
+          "@soyyostef",
+          "@strangestloop",
+          "@yung_wolfie",
+          "sierra",
+          "@jacksonsteger",
+          "@slimdaveyy",
+          "@seabiscuit_c",
+          "@danrobhawkins",
+          "@Jayislate",
+          "akshaj",
+          "@raintheneo",
+          "sonoma"
+        ],
+        "start": 1624474800,
+        "end": 1624906800,
+        "snapshot": "12694734",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "Qmct2pJefCFbF7hPLeGQ8GrjECQRQ4nAMvcY5kTKYKe9sC",
+        "title": "Should we send all our funds to 0x0914B7fB74770c0242F74157E318F24acB013f29?",
+        "body": "We should send all the funds to 0x0914B7fB74770c0242F74157E318F24acB013f29",
+        "choices": [
+          "Yes",
+          "Yes"
+        ],
+        "start": 1622574000,
+        "end": 1623870000,
+        "snapshot": "12644001",
+        "state": "closed",
+        "author": "0x0914B7fB74770c0242F74157E318F24acB013f29",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmciYbUHKm5WZ8KX32XPmQc35LKSypJxkgigtVJN4J9XGv",
+        "title": "[TEST] Scattershot multiple choice",
+        "body": "Testing how we would use scattershot for the residency application process. Can it handle a bunch of submissions on a single poll?\n",
+        "choices": [
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test"
+        ],
+        "start": 1623783600,
+        "end": 1623870000,
+        "snapshot": "12641604",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmeMZyiUj1Lj3MXKtkTn2z6HB1T2dY1eFdefpipSfJFQYZ",
+        "title": "[TEST] Scattershot multiple choice",
+        "body": "Testing how we would use scattershot for the residency application process. Can it handle a bunch of submissions on a single poll?\n\n",
+        "choices": [
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test",
+          "test"
+        ],
+        "start": 1623783600,
+        "end": 1623870000,
+        "snapshot": "12641450",
+        "state": "closed",
+        "author": "0xbeC26FFa12c90217943D1b2958f60A821aE6E549",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      },
+      {
+        "id": "QmY6cRpsXfpuxvAKpxbgU8SdYtUaaVXHwAWqf4dPi2ADRM",
+        "title": "Should CabinDAO commit 15 ETH and 5500 $CABIN to the residency program proposal?",
+        "body": "See proposal: https://creators.mirror.xyz/eS6lYIBycHEZmtGpRGwA9lCb3Y_8G4pddHWSKtmWP_I",
+        "choices": [
+          "Approve",
+          "Deny"
+        ],
+        "start": 1623265200,
+        "end": 1623697200,
+        "snapshot": "12602924",
+        "state": "closed",
+        "author": "0x522C6b0Aa5A14E1771Aab5646247349fFa9E5111",
+        "space": {
+          "id": "cabindao.eth",
+          "name": "Cabin"
+        }
+      }
+    ]

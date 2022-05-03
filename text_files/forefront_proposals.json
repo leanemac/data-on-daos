@@ -1,0 +1,164 @@
+[
+      {
+        "id": "0x67d18d2e39c22ab257bbb2b3a7c7fed421d88c30e72f10434e802d5774cf1252",
+        "title": "FFIP-9: Forefront Season 2 Budget",
+        "body": "# Summary\n\nForefront must continue to build a strong culture of transparency and community ownership, and changes in Seasons and major treasury spending is a significant part of that. We have embarked upon our second season, and to continue to uphold these values and grow as an organization we must ensure that the community approves the Season 2 budget proposal. The following proposal is a high-level breakdown of the season, its objectives, and the requested budget. A comprehensive breakdown of Forefront Season 2 may be found here. If the proposal does not pass, the core team will facilitate feedback collection to make necessary changes.\n\nIf approved, this will be retroactively applied as the proposed Season 2 starting date is March 14, 2022.\n\n# Motivation\n\n## Seasons\nA season is a bounded period of time where the Forefront community can align on projects and experiments that help us achieve our broader mission.\n\nWhile the grand vision for Forefront’s long-term future may differ for different community members, seasons allow us to build consensus around what high-level steps we are taking over a fixed period of time.\n\n## Season 2’s Primary Objectives\n\n- Develop an intentional \"A-Z\" Onboarding Program that activates and delights Contributors and Community Members.\n- Build out a Web3 media engine focused on research, deep storytelling, and curation for social tokenized communities, their development, their philosophy, and their use-cases.\n- Develop a collaborative product strategy to support social tokenized communities and solve key ecosystem problems (think DAO Terminal, FF Staking, etc…).\n\n# Specifications\nSeason 2 will retroactively begin on March 14th;\nSeason 2 will end on July 14;\nAggregate USDC budget is proposed to be: $64,400;\nAggregate $FF budget proposed is: 300,000 $FF.\n\n## Cost\nThe following funds are requested for Season 2. Contributor allocations will be a mix of USDC and $FF, depending upon role. The proposed budget allows us to maintain our 18-month USDC expenditure runway.\n\nUSDC Contributors: Max of $14,400;\nFF Contributors: Max of 250,000 $FF;\nUSDC Ecosystem Development: $50,000\n$FF Seasonal Projects: 50,000 $FF\n\nAt a token price of 1 $FF = 1.3 USDC this would equate to approximately 4.4% of the Treasuries $FF.\n\n## Contributor Allocation\nThe bulk of the proposed budget is allocated towards compensating high impact contributors. Forefront will seek to onboard ~20 contributors in the following capacities during Season 2:\n\n- Pioneers: Forefront is the Contributor’s sole work focus.\n- Oracles: Forefront is the Contributor’s primary, or top 2, work focus.\n- Alchemists: Forefront is a Contributor’s \"part-time\" commitment.\n- Voyagers: Forefront is a low-priority commitment for the Contributor.\n\n## Initial Working Groups\nThe aforementioned contributors will initially contribute to the following working groups:\n\n- Onboarding (DAO Contributor & Community)\n- Web3 Creator Residency\n- Community Programming\n- FF Journal & Museum\n- FF Daily\n- FF Newsletter & Wrapped\n- $SOCIAL\n- Metagovernance & D2D\n- FF Product Labs\n\n## Governance\nAny member of Forefront holding at least 100 $FF may submit a proposal for funding from the Seasonal Projects budget. The full governance framework is described here.\n\n# Conclusion\nForefront is seeking to build its “base layer” of high commitment contributors that position the DAO to realize its ambitious goals and objectives. This proposal provides the necessary funding to take this important first step.\n\n# Quorum\nQuorum: Minimum 5% of all currently circulating $FF (excluding treasury tokens) or 43119.2 $FF must participate for the proposal to pass.\nPassing Threshold: 65% or more of voting members must vote YES for the proposal to pass.\n\n# Vote\nYes - Vote YES to approve Forefront season 2 budget approval\nNo - Vote NO to reject Forefront season 2 budget approval\n\nValue. Culture. Community\n",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1650045600,
+        "end": 1650304800,
+        "snapshot": "14590044",
+        "state": "closed",
+        "author": "0x66ED3f0Dc9e3678315d3232F3be7d9390a0904e6",
+        "space": {
+          "id": "ffdao.eth",
+          "name": "forefront"
+        }
+      },
+      {
+        "id": "0xafd0e12dc050e50af3bd5f0086c8ae2097345a942c78e212ca5966ef80d40c79",
+        "title": "Revised Role and Compensation for SpaceXponential | Caroline",
+        "body": "## Author\nCarlos Gomes\n\n## Summary\nIn alignment with the planned review of the [contributors onboarding framework](https://snapshot.org/#/ffdao.eth/proposal/QmejUFkTFzhWS3McVpYbfX3C4u1cBLSFqqfqysvXe3rrL5), this proposal seeks to introduce a new competitive compensation and role proposal for Forefront’s current Community Lead, SpaceXponential | Caroline.\n\n## Motivation\nForefront’s core priority is to attract and retain top contributors who have continuously shown leadership, commitment, and consistency in creating long-lasting value for the DAO. \n\nAs Community Lead and a core staff member, Caroline has been pivotal to all core Forefront DAO efforts as well as leading several other internal initiatives including Seasons planning, community programming and execution, contributor onboarding, and DAO org design. In accordance with the scorecard laid out in a previous proposal, Caroline's needs (following our very own [compensation framework](https://ffdao.notion.site/Forefront-Compensation-3825ebe3f4744204936ebe081c03b288)), and the DAO’s priorities, I would like to propose a new role of DAO Design & Community Lead and a revised monthly competitive compensation package of $12,083 USDC (or $145K/year), retroactively effective April 1st, 2022 upon proposal approval. \n\n## Specifications\n### Responsibilities\nUnder this new role of DAO Design & Community Lead, Caroline’s main responsibilities will be:\n- Building structures and processes for Contributor Support, including A-Z Onboarding, Cohort Orientation & Talent Reserve; \n- Build structures and processes for DAO alignment/convergence, including Reflection Epoch, WG steward training, WG sync strategy & OKRS, & Forefront Forum; \n- Design & execute “Lighthouse” events and programming to attract builders and believers to the “Global City,” including Web3 Creator Residency, Prism, and Community Coworking Space;\n- Build operational capabilities for Community Support, to empower outreach and affinity building plus new avenues to engage/retain members.\n\nA comprehensive scorecard breakdown can be found [here](https://docs.google.com/document/d/1YKOvGirhXMap5BQz56lAY9Bn5tSZfhpQZk-Kf9WP6ZE/edit?usp=sharing).\n\n## Compensation Scope\n- Monthly compensation of $12,083.33 USDC;\n- Start date April 1st, 2022 upon proposal approval;\n- Existing FF token compensation and stipend remains unchanged;\n- Current role scope and scorecard to be revisited in 6 months;\n\n## Quorum\n- Quorum: Minimum 5% of all currently circulating $FF (excluding treasury tokens) or 43119.2 $FF must participate for the proposal to pass.\n- Passing Threshold: 65% or more of voting members must vote YES for the proposal to pass.\n\n## Vote\nYes - Vote YES to approve revised role and compensation for SpaceXponential | Caroline\nNo - Vote NO to reject revised role and compensation for SpaceXponential | Caroline\n\n***\n*Value. Culture. Community*\n",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1649930400,
+        "end": 1650103200,
+        "snapshot": "14578267",
+        "state": "closed",
+        "author": "0xF0CAd7C8b383f79A879eB6Df644e336234EBDac8",
+        "space": {
+          "id": "ffdao.eth",
+          "name": "forefront"
+        }
+      },
+      {
+        "id": "0x0927dc97b0b2c4a725a8324695cca15bec244a3fbceed75df726489639187ca6",
+        "title": "Treasury Diversification Proposal",
+        "body": "## Summary\nFollowing on the August 2021 [diversification round](https://snapshot.org/#/ffdao.eth/proposal/QmTqgWB7w372zStj45QkqZu6HtXP2NpzDamsoDAq8u25zV) that resulted in 2.1 million USDC in the treasury, we are proposing authorizing the Tokenomics Working group to take the following two actions:\n\n- Converting $150,000 of USDC to ETH.\n- Investing up to $500,000 of the USDC in Treasury into a low risk investment opportunity.\n\n## Motivation\n\n### Converting USDC to ETH\n\nDiversifying Forefront’s treasury is a top priority heading into 2022. The first conservative step in this direction is to convert $150,000 (approximately 8.7% of the USDC in Treasury) into ETH. The timing of the conversion is also somewhat fortuitous as ETH is down 30% over the past 30 days (as of Jan 30, 2022). Treasury ownership of ETH also provides upside exposure to the larger value creation of Web3.\n\n### Investing USDC\n\nThe USDC currently sitting in treasury is ‘unproductive’, meaning it is not earning any yield. We are proposing conservatively investing $500,000 of USDC into a low-risk interest-bearing investment opportunity. One example would be depositing the USDC into an Aave savings account (yielding 2.16% as of Jan 30, 2021). This would yield approximately $10,800 over the course of the year.\n\n## Success Conditions\nSuccessfully swapping $150,000 of USDC to ETH and investing $500,000 of USDC into a low-risk interest-bearing investment opportunity.\n\n## Specification\nTreasury Multi Sig will execute both the swap and investment.\n\n\n## Costs\nGas associated with trades. Costs are minimal.\n\n## Vote\nYes - Vote Yes to approve Treasury Diversification Proposal\nNo - Vote No to not approve Treasury Diversification Proposal\n\n***\n*Value. Culture. Community*",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1644421500,
+        "end": 1644594300,
+        "snapshot": "14171205",
+        "state": "closed",
+        "author": "0xF0CAd7C8b383f79A879eB6Df644e336234EBDac8",
+        "space": {
+          "id": "ffdao.eth",
+          "name": "forefront"
+        }
+      },
+      {
+        "id": "0x14b9aea0cf1d6d4794c31cf7144608a0f5941f632930839fc514e8b24e86c764",
+        "title": "Forefront Investment Club",
+        "body": "Purpose\n-------\n\nApprove a Forefront Investment Club -- established through Syndicate Protocol -- to allow members of our community to collectively pool funds and invest in a simple and compliant way.\n\nA Forefront Investment Club would give community contributors the ability to leverage the Forefront brand to get into highly competitive web3 deals or access expensive assets that individuals generally could not reach.\n\nAlthough the Club would not directly return assets back to the Treasury (all returns would go back to investing members), token-gating the club accrues value back to the $FF token and incentivizes the Forefront community to support any portfolio companies and projects of the Club.\n\nOverview\n--------\nSyndicate Protocol will provide the tooling and requisite legal support to create an on-chain investment club, known as a Syndicate Investment Club. Clubs are groups of investors (no more than 99 individuals) pooling their own funds (no more than $20M total) to invest. Clubs can invest in both on-chain (NFTs, liquid tokens, etc.) and off-chain (startup equity, etc.) assets, and Syndicate's tools will automatically manage fundraising, cap table, and distributions for the Club.\n\nIn an investment club, there is no legal differentiation between members and managers -- thus, there is no carry or fees. The Club will appoint a manager to handle the technical aspects of the Club, ensure people are voting and send money, etc. However, from an investment perspective, all members hold equal voting weight and receive returns proportional to the amount of funds invested.\n\nClub Details\n------------\nClub Details:\n\n-   The Club will be open to Forefront contributors and core collaborators.\n-   After a 3 month trial period, the DAO may propose to open up the investment club to non-contributors (e.g. token-gating).\n-   Club administration (launch, technical support, etc.) will be managed by the Forefront Staff.\n\nLegal Limitations:\n\n-   The Club cannot hold more than $20M.\n-   The Club cannot have more than 99 members.\n-   Every member of the Club must actively participate in investment decisions (e.g. vote on each investment).\n-   The Club cannot receive funds from the DAO Treasury.\n-   The Club cannot distribute returns back to the DAO Treasury.\n\nBudget\n------\nSyndicate Protocol currently does not charge protocol fees. However, there are gas costs associated with creating an on-chain investment vehicle. While the gas costs are unpredictable, $1,000 is a decent ballpark. These funds will be paid out of the Forefront Treasury.\n\n## Vote\nYes - Vote Yes to approve Forefront Investment Club Proposal\nNo - Vote No to not approve Forefront Investment Club Proposal\n\n***\n\n*Value. Culture. Community*",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1636991100,
+        "end": 1637163900,
+        "snapshot": "13619904",
+        "state": "closed",
+        "author": "0xF0CAd7C8b383f79A879eB6Df644e336234EBDac8",
+        "space": {
+          "id": "ffdao.eth",
+          "name": "forefront"
+        }
+      },
+      {
+        "id": "0x8b4c21e3c30e79bd61990866e3c5ad303b24e95ee92978788f2d127f22178609",
+        "title": "Forefront Public Goods Funding",
+        "body": "Summary\n-------\nThis proposal is requesting $50,000 USDC from the Forefront Treasury for a Gitcoin-powered public goods initiative. Of this $50,000, $25,000 will be donated as matching funds to the Gitcoin Grants Round 12 Advocacy Round, which focuses on helping to fund advocacy organizations like Fight for the Future who sit at the intersection of tech and crypto activism.\n\nThe remaining $25,000 will be used as matching funds for a \"Forefront Side-Round,\" an opportunity for Forefront to fund key partners, organizations, and individuals within our community.\n\nMotivation\n----------\nFrom [Gitcoin](https://gitcoin.co/blog/gitcoin-grants-quadratic-funding-for-the-world/):\n\n\"Public goods create universally better outcomes for society. For those trapped in poverty, public goods are particularly essential, helping people meet basic needs. Public libraries for example --- assuming all else equal, can help educate the population indiscriminately (once again, this assumes the library offers truly equal opportunities to learn, and check out the resources needed).\n\nPublic Goods also serve those in privilege and power just as equally as those in poverty. We often don't notice it, but the majority of the value we consume in the world is public goods. After all, what value is your lambo to you if the sky is on fire? Funding Public Goods, ensuring they exist, and are accessible is often paramount to a society's advancement.\"\n\nForefront DAO is heavily dependent on public goods, from open source software to policy and research organizations pushing forward thinking and fighting for core principles of web3. Outside of the practical case, though, funding public goods is morally good. As the port of entry to web3, we have a responsibility to create and promote the culture that we want to see throughout the space. We should fund public goods because it is the right thing to do, and we should promote a culture that encourages the moral case rather than the practical one.\n\nAt the same time, Gitcoin's focus on Quadratic Funding is an exciting opportunity for Forefront to begin funding projects within our ecosystem to accelerate our progress as a DAO. The social token space is growing rapidly, and Forefront has the opportunity to establish itself as a critical pillar in the ecosystem.\n\nDetails\n-------\n### Advocacy Round\n\nThe Gitcoin Advocacy Round will be handled entirely by Gitcoin. Our only role will be funding ($25k) and promoting the round.\n\nForefront will be a matching partner. For more details on Gitcoin Grants, Quadratic Funding, and Matching Funds, please [give this article a read](https://gitcoin.co/blog/gitcoin-grants-quadratic-funding-for-the-world/). This is extremely important  to understand how Gitcoin works and what Forefront's role will be.\n\n### Forefront Side-Round\nIn addition to the Gitcoin Advocacy Round, Gitcoin will support Forefront's own Side-Round. This will be an opportunity for the Forefront community to select and support key projects, partners, and stakeholders within our ecosystem. The Side-Round will also use Quadratic Funding ($25k matching funds), so please read the article linked above for more clarity.\n\nWe propose that Forefront DAO appoints a Side-Round Committee to coordinate the logistics of the Side-Round and select the projects that will be included for funding.\n\nThe Committee should include:\n\n-   One Forefront Staff member.\n-   One Culture Guild member.\n-   One Growth Guild member.\n-   One Writers Guild member.\n\nEach Guild will be responsible for appointing a representative to the Side-Round Committee within three days of this proposal passing. The Committee will have full autonomy to develop a process to select projects for the Side-Round.\n\n## Vote\nYes - Vote Yes to approve Forefront Public Goods Funding Proposal\nNo - Vote No to not approve Forefront Public Goods Funding Proposal\n\n***\n\n*Value. Culture. Community*",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1636991100,
+        "end": 1637163900,
+        "snapshot": "13619852",
+        "state": "closed",
+        "author": "0xF0CAd7C8b383f79A879eB6Df644e336234EBDac8",
+        "space": {
+          "id": "ffdao.eth",
+          "name": "forefront"
+        }
+      },
+      {
+        "id": "0xa4fa9f2a08cf4d99f7ea2ac46ebb2775087b4d36c98b59593e3f70c9ba15b7eb",
+        "title": "Onboard Qhawe as Part Time Contributor",
+        "body": "## Summary\nThis proposal seeks to onboard Qhawe as part time contributor for a pre-defined time frame of 6 months.  \n\n## Motivation\nQhawe has been a driving force in FF growth guild and have been actively contributing to Forefront mission and efforts, including: developing and leading Forefront Index Product; developing early DAO2DAO partnership and go to market strategy.\n\n## Specifications\n**Responsibilities**\nUpon onboarding Qhawe will be responsible for:\n- Define and execute partnership vision and strategy for FF Dao2Dao initiative;\n- Oversee and maintain Forefront Index product development strategy and implementation;\n- Contribute to the design, implementation, and evaluation of new and existing token economics modeling of the forefront token;\n\n**Offer Terms**\nMonthly compensation of $2500 USDC\nMonthly FF Compensation: 700 FF\n \nAs per existing hiring guideline:\n- PT contributors still qualify for per projects allocations, but do not qualify for Coordinape or Sourcecred seasonal allocations;\n- PT positions compensation to be revised in 6months period;\nMin 10-18 Hours weekly dedicated to the DAO. Initial commitment period of 6 months (extendable if both parties agree).\n\n**Evaluation**\n- PT work expectation and outcome scorecard will be set internally. **It will serve as guideline, work evaluation also includes members growth, learning and improvement;**\n- Guideline on termination: In failure to meet expectations or violation of FF values and principles, an re-evaluation discussion will take place between the full time contributors and the staff team. If the decision to terminate is agreed and valid, it will be put into effect by the staff team. In this case contributors monthly and vesting compensation will be immediately ceased.\n- All unvested FF will roll back to treasury in case of termination;\n\n## Vote\nYes - Vote YES to onboard Qhawe as Part Time contributor\nNo - Vote NO to not to onboard Qhawe as Part Time contributor\n\n***\n*Value. Culture. Community*",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1636124400,
+        "end": 1636297200,
+        "snapshot": "13556747",
+        "state": "closed",
+        "author": "0xF0CAd7C8b383f79A879eB6Df644e336234EBDac8",
+        "space": {
+          "id": "ffdao.eth",
+          "name": "forefront"
+        }
+      },
+      {
+        "id": "QmejUFkTFzhWS3McVpYbfX3C4u1cBLSFqqfqysvXe3rrL5",
+        "title": "FT/PT Contributors Onboarding",
+        "body": "## Summary\nThis proposal seeks to onboard and compensate full time and part time genesis contributors to Forefront DAO while also introducing a trial process for future hires.\n\nA formal timeline of discussion can be found on the [Governance forum](https://forum.forefront.news/d/35-ftpt-contributors-onboarding-proposal/5).\n\n## Motivation\nForefront key priority is to retain and onboard contributors who have continuously shown leadership, commitment and consistency to create long lasting value for the DAO.\n\nWith this proposal we are aiming Introduce a competitive monthly compensation and network upside (via vested FF) to genesis contributors for core inaugural core positions in the DAO.\n\n## Contributors List\nAll 6 members suggested on this proposal have been core to FF trajectory and have demonstrated outstanding ability, capability, and determination to continue to deliver impactful outcomes to the DAO, while fully aligned with FF mission and values. \n\n|       | Name  |Role |Monthly (USDC) |Monthly (FF) |\n| ----------- | ----------- |----------- |----------- |----------- |\n| FT      | Carlos        |DFC/Strategy       |10,000       |N/A       |\n| FT  | Caroline        |Community Lead      |8,000       |1% of FF supply (1)      |\n| CPT*      | Jihad Esmail        |Ops/BD Lead       |N/A       |0.5% of FF supply(2)        |\n| CPT*  | Andy Tom        |Web3 Dev Lead      |N/A       |0.5% of FF supply(2)       |\n| PT**      | Joey DeBruin        |Editorial Lead       | 2,500       |700 FF Monthly(3)       |\n| PT**  | Jay       |Community Ops      |2,500       |700 FF Monthly       |\n\n\n**Notes:**\n1) 1% of total FF supply (100,000) subject to 3 years vesting period. Not subject to a cliff; \n2) 0.50% of total FF supply (50,000) vested over 2 years. Not subject to a cliff; \n3) Higher end of base contributors allocation. To be revised on season basis;\n*CPT Core Part time core position within FF DAO while keeping their respective current jobs;\n**Min 10-18 Hours weekly dedicated to the DAO.Initial commitment period of 6 months (extendable).\n\n### Compensation Scope: \n- Start date October 1, upon proposal approval;\n- FT and CPT contributors will not be compensated via additional projects or other programs; \n- PT contributors still qualify for per projects allocations, but do not qualify for Coordinape or Sourcecred seasonal allocations;\n- FT, CPT and PT positions compensation to be revised in 6months period;\n- Optional USDC <> FF conversion at 50%/50% rate for part time roles (monthly basis) will be made available.\n\n## Scorecard\nA comprehensive breakdown of each contributor scorecard KPI can be viewed [here.](https://docs.google.com/document/d/1qeHCsT1xPFkh1d4lJ_CNLNzjK_8k2gWwBrZo0jCrZ60/edit)\n\n### Evaluation\n- FT and PT work expectation and outcome scorecard will be set internally. **It will serve as guideline, work evaluation also includes members growth, learning and improvement;**\n- Guideline on termination: In failure to meet expectations or violation of FF values and principles, an re-evaluation discussion will take place between the full time contributors and the staff team. If the decision to terminate is agreed and valid, it will be put into effect by the staff team. In this case contributors monthly and vesting compensation will be immediately ceased.\n- All unvested FF will roll back to treasury in case of termination;\n\n## Future Framework\nA more robust MVP framework and guideline for future full time and part time hires is in the works, we are aiming to share with the community in the following weeks. \n\n### Trial Process\n- Staff team and active contributors will discuss the need for PT or FT positions including its relevance and need; \n- If approved a signaling post will be created on the governance forum;\n- Potential candidates can express their interest via a proposal (priority will be given to contributors);\n- All Applications will be reviewed by the staff team, followed by a 1:1 interview with potential candidates. \n- Upon agreement on the compensation terms and scorecard KPI with the chosen candidate, a final onboarding proposal will be made public via snapshot for community voting. \n\n**Note:** This is an ongoing process that will continue to evolve through community feedback and experimentation\n\n## Vote\nYes - Vote YES to approve the onboard and compensation for all 6 contributors\nNo - Vote NO to not approve the onboard and compensation for all 6 contributors\n\n***\n\n*Value. Culture. Community*",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1633014000,
+        "end": 1633100400,
+        "snapshot": "13326742",
+        "state": "closed",
+        "author": "0xF0CAd7C8b383f79A879eB6Df644e336234EBDac8",
+        "space": {
+          "id": "ffdao.eth",
+          "name": "forefront"
+        }
+      },
+      {
+        "id": "QmTqgWB7w372zStj45QkqZu6HtXP2NpzDamsoDAq8u25zV",
+        "title": "Forefront Treasury Diversification",
+        "body": "## Summary\nThis proposal seeks to authorize FF Treasury to exchange 1,000,000 FF tokens for $2,000,000 USDC. \n\nA comprehensive timeline of discussion can be found on the [Governance forum](https://forum.forefront.news/d/23-ff-treasury-diversification-proposal).\n\n## Motivation\nForefront treasury is currently mainly composed of FF tokens (72% of total supply of $FF) and a small allocation of $ETH and $ROBOT tokens. Because 99% of the treasury is denominated by $FF, it remains highly unsustainable for the long-run development of the community.\n\nAs the Forefront DAO looks to expand its operations and onboard full time contributors, a diversified and sustainable treasury has become apparent. De-risking the treasury with more liquid and stable assets will allow us to fund operations and programs via USDC instead of FF tokens or exchanging $FF in the highly volatile open market which further alleviates the selling pressure on $FF.\n\nTo recap, along with posting the original proposal in the forum for an open discussion around the details and implications, we’ve hosted three separate hangouts on our discord with potential strategic partners and community members. Recordings of these hangouts are available on our discord and can be accessed by any community member.\n\n## Specification\nWe propose exchanging 1,000,000 FF tokens held in the DAO Treasury to strategic partners and community members for $2,000,000 USDC at a fully diluted network valuation (FDNV) of $20M, or 2 USDC per $FF.\n\nOf the total exchange amount, 80% will be allocated to strategic partners, while 20% will be reserved to community members.\n\n**All proceeds of this strategic round will go directly to the DAO Treasury.**\n\n### Strategic Partners\nForefront staff has negotiated the final allocation amount with strategic partners, which are composed of community focused funds, founders, and angels. Final list and allocation as follows:\n\n| Name  |Allocation (FF) | \n| --- | ------- | \n| Pet3rPan (1kx) | 400,000 |  \n| Linda Xie (Scalar Capital) | 125,000 | \n| Own.fund Collective | 75,000 | \n| MetaCartel Ventures | 75,000 | \n| DeFi Collective | 40,000 |\n| Brett Shear (Palm Tree Crew) | 12,500 | \n| Andy Chen Fang (Synthetix) | 12,500 | \n| Jenil (Coinvise) | 12,500 | \n| Kevin Chou (Rally) |  12,500 | \n| Jacob Horne (Zora) | 12,500 | \n| Samantha Yap (YAP Global) |  7,500 | \n| Anthony Sassano (EthHub) |  7,500 | \n| Jesse Grushak |  7,500 | \n| **Total** |  **800,000 FF** | \n\n*Full list [here](https://docs.google.com/spreadsheets/d/1FcWOzbA_12_UbS5M6EHbAB4AcqYPkCB-B0derRljIxc/edit?usp=sharing)* \n\nFF tokens acquired via strategic partners round will be subject to a **12 month cliff, plus an additional 12 month linear monthly unlock after the cliff.**\n\n### Community Round\nAs discussed in both the original and revised proposal, 20% of the round (200,000 FF) will be reserved for the community, prioritizing Forefront contributors as defined by Season One guidelines.\n\nForefront staff will be sending out an Interest Form in waves. This form will be timeboxed, and in line with the following criteria:\n\n- **Wave 1:** Current Contributors and Collaborators\n“Contributor” will be formally defined based on the Season 1 definition. If you are an official member of a Guild and have gone through the onboarding flow, you are a contributor.\n- **Wave 2:** Past Contributors, NFT Holders, Merch Holders, Sourcecred Users, Snapshot Voters, Speakers\nHere, contributor is loosely defined to mean anyone who has completed an FF bounty, been a Hangout guest, or any other meaningful contribution to the community. NFT holders (Genesis NFT) and Metafactory Merch Holders are also included in this wave.\n- **Wave 3:** Forefront Community Members\nIf you are not a member of the above waves, Forefront members will still have access to the Community Allocation in a third and final wave. \n\nThe maximum individual community allocation will be $10,000USDC (min $1,000USDC). **If the round is not filled by Wave 3, the remaining Community Allocation will be rolled over to Strategic Partners. The Community Allocation period will last only 72 hours.**\n\nThe official dates will be announced after the Snapshot vote (assuming community approval).\n\nTokens acquired via Community Round are not subject to vesting.\n\n## Vote\nYes - Vote YES to approve the exchange\nNo - Vote NO to not approve the exchange \n\n***\n*Value. Culture. Community*",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1629903600,
+        "end": 1630076400,
+        "snapshot": "13094513",
+        "state": "closed",
+        "author": "0xF0CAd7C8b383f79A879eB6Df644e336234EBDac8",
+        "space": {
+          "id": "ffdao.eth",
+          "name": "forefront"
+        }
+      },
+      {
+        "id": "QmTFiYSzCDX6f42spyDjti4Nck5fvxuSQCPXM4zmZkFor5",
+        "title": "Forefront Season One",
+        "body": "## Summary\n\nThis proposal is intended to bring the concept of seasons to Forefront - FF Season One, for a period of 90 days, starting July 19th.\n\nA comprehensive outline can be found on the [Governance forum.](https://forum.forefront.news/d/22-ffp-01-ff-season-1-proposal)\n\n## Motivation\nA season is a bounded period of time where the Forefront community can align on projects and experiments that help us achieve our broader mission.\n\nWhile the grand vision for Forefront’s long-term future may differ for different community members, seasons allow us to build consensus around what high-level steps we are taking over a fixed period of time.\n\nUp until this point, Forefront has been in what we’ll call the “pre-season” phase – focusing less on architecture and more on managing our community garden. Our hope is that Season One will be a step forward in strengthening Forefront's position as the leader of the social token space while also building strong relationships with existing and upcoming communities.\n\n## Specification\n- Bring FF Season One to Forefront;\n- If passed, FF Season one will run for a period of 90 days, starting July 19th;\n- Introduce Guilds, contributor types, and new governance process.\n- Approve a max allocation of 450,000 $FF for Season One expenses (150,000 $FF for core operations expenses and 100,000 $FF allocation for each guild). Payout allocation will run monthly and/or per-project basis.\n\n## Vote\nYes - Vote Yes to bring FF Season One to Forefront\nNo - Vote No to not bring FF Season One to Forefront\n\n***\n*Value. Culture. Community*\n\n",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1626102000,
+        "end": 1626361200,
+        "snapshot": "12811718",
+        "state": "closed",
+        "author": "0xF0CAd7C8b383f79A879eB6Df644e336234EBDac8",
+        "space": {
+          "id": "ffdao.eth",
+          "name": "forefront"
+        }
+      }
+    ]

@@ -1,0 +1,650 @@
+[
+      {
+        "id": "QmPMxkza3wH4Qhec2EZvR6LpbyndTNRKgcTXsL3Z6DYVo2",
+        "title": "Do we fund the Devsquad contribution to Prime Deals? ",
+        "body": "As posted on the Prime forum: https://forum.prime.xyz/t/devsquad-builder-cycle-1-proposal-march-april-may-40k/128\n\nThis proposal is created for the Devsquad contribution to Prime Deals for the months of March / April / May of 2022.\n\nA breakdown of the contributions and costs can be found here: https://drive.google.com/file/d/1cekdkcmin3MNtljiks0KeGgSwzDmP5wm/view \n\nWe have budgeted 0.75 FTEs for March and 1 FTE for April and May; a total of 40K USDC. ",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1648573235,
+        "end": 1648746045,
+        "snapshot": "14482125",
+        "state": "closed",
+        "author": "0xb2a3b5B9d2C0f07cBA328b58737147cfc172EB9f",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmVuAX4Uq1iPKUiSqn8PniuozvPKdRhDfBuxgUdYFrMgs1",
+        "title": "Do we validate the updated D2D distribution as proposed by the Migration Squad? ",
+        "body": "This proposal is a follow up to PDP12 - Prime Token (Re)Launch and aims to validate the proposed updates to the Early Contributor reward distribution as proposed by the Migration Squad, who is leading the transition from the old PrimeDAO Token (PRIME) 1 to the new Prime (D2D) token.\n\nFollowing the completion of the Prime Seed in September 2021, the transition to the new D2D tokens was started. Up to 5% of the D2D token supply was set aside for Early Contributors - rewarding those that hold the old PrimeDAO token & supported PrimeDAO early on.\n\nUpdates\nThe following updates to the methodology outline are being proposed:\n- Remove addresses that don’t hold any PRIME or REP from the D2D bonus calculation. Proxy addresses connected to an address that does hold PRIME or REP will be included. This will ensure that bonuses are only allocated to current PrimeDAO stakeholders. The excluded bonuses will be sent back to Prime Treasury for future distribution.\n- Raising the airdrop threshold from 1,000 D2D to 10,000 D2D - this means that rewards under 10,000 will be airdropped as soon as the updated proposal passes. D2D rewards above 10,000 will be vested for a period of 3 months using Sablier. This change lowers the number of Streams to be deployed from 162 to 52.\n- Not starting with heavy D2D liquidity rewards after distribution, instead of waiting for the Prime Tokenomics update planned for Q2 to be rolled out for a more effective distribution method.\n- Proxy addresses will be merged with their owners\n- Swapping in Prime Swap has been removed as a reward metric as this turned out extremely hard to calculate for a small amount\n- Addresses that are eligible to receive less than ten (10) D2D will not receive their airdrop, the costs of sending these tokens does not add up to the value created by it.\n\n\nFinal numbers\n\nTotal to be distributed: 3,432,974 D2D\n\n2,569,974.30 will be distributed to addresses that held PrimeDAO tokens during both snapshots (July 1st, 2021 and October 14th, 2021) and 1,033,000 to early users and contributors.\n\nIn total PrimeDAO had set aside up to 5,000,000 D2D tokens for the migration, this means 1,567,026 D2D tokens will remain in the PrimeDAO Treasury.\n\nThe migration squad has put in a lot of effort to ensure all early contributors are rewarded equitably. If an owner of an address feels that his rewards are not adding up to their contribution, we suggest having a discussion on the forum. PrimeDAO will not be able to revert this calculation after approval. Any request will have to be made on a per case basis to PrimeDAO.\n\nForum posts for refference\n- https://forum.prime.xyz/t/prime-tokenomics-v2-migration-and-retrospective-rewards/64\n- https://forum.prime.xyz/t/early-contributor-d2d-distribution-sheet-confirmation/123/2",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1647439238,
+        "end": 1647612053,
+        "snapshot": "14397552",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmZanPpqKrGt7AFQu1jKNfeAUwtjiNVTHqqt9TqVUpzugM",
+        "title": "Partnership Agreement Symmetric <> PrimeDAO",
+        "body": "As posted on the Prime Forum: https://forum.prime.xyz/t/prime-symmetric-partnership-draft/119/3\n\nPartnership Purpose\nThe partnership aims to set the foundation for a long-term collaboration between PrimeDAO and Symmetric. The two organizations aim to integrate on a technical and operational level to bring a top-class flexible DEX and Launch experience to Celo and Gnosis Chain.\n\nBackground on the Partnership\nPrimeDAO and Symmetric have been in touch since Q3 2021 when a group of Prime contributors involved in the Kolektivo project on Celo was researching what it would take to bring Balancer V2.0 on to Celo. After meeting with the Balancer and Celo team, it became clear that Balancer would not move to the Celo chain in the short term. Around this time the Prime contributors bumped into Symmetric and started a conversation to explore whether it would be possible to collaborate instead of making competing products.\n\nAt this point, Symmetric was live for a couple of weeks with a fork of Balancer V1.0 on Celo and Gnosis Chain. The Prime and Symm contributors met to discover synergies and started researching what it would take to move Symmetric from Balancer V1.0 to Balancer V2.0. After scoping out what it would take to, Prime supported in making introductions and kick-starting conversations to gather the resources needed for Symmetric to start the migration to V2.0.\n\nDuring the same time, Balancer started exploring the so-called Balancer Friendly Fork model, where third-parties teams would receive BalancerDAO’s recognition and support to launch on a chain where Balancer doesn’t aim to launch in the short-term. As Prime’s contributors are well-connected with the BalancerDAO, conversations have been started to recognize Symmetric as the official Balancer Friendly Fork on Gnosis Chain and on the Celo Network.\n\nMeanwhile in Q4 PrimeDAO launched the Prime Launch and Prime Rating dApps. Prime Launch is a platform for hosting seed or LBP launches on Ethereum Mainnet and Arbitrum and aims to be the starting point for new DAOs. Prime Rating is a community and framework of research that creates reports on the leading DeFi projects.\n\nThere is a clear synergy between the Prime and Symmetric team and products that we would like to leverage through a close partnership. The partnership proposal will outline how we can align our incentives and bundle our forces to bring a valuable offering to Celo and Gnosis Chain.",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1646661621,
+        "end": 1646834429,
+        "snapshot": "14339818",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmbwLpwf628KNworuHuBsRYFYMdHobUiGSuQ6BMsw4bejt",
+        "title": "Partnership Agreement VitaDAO <> PrimeDAO",
+        "body": "As posted on the Prime Forum: https://forum.prime.xyz/t/prime-vitadao-partnership/121\n\nThis partnership agreement is initiation on the 3th of March 2022, by and between:\nVitaDAO, a community owned collective funding early stage longevity research, governed through the VitaDAO Snapshot.\n\nand\n\nPrimeDAO, a A DAO collective focused on researching and building next-generation coordination tools for decentralized organizations, governed through the PrimeDAO Boardroom.\nPartnership Purpose\nThe partnership aims to align the interest of the parties to intensify the collaboration between the organization. \nBackground on the Partnership\nVitaDAO and PrimeDAO share a common purpose to push the abilities of DAO to fund and advance human potential. Contributors of the DAOs have been connected and sharing knowledge since the early days of DAOs, back in 2019. Both groups see value in intensifying our relationship with this partnership agreement. \nCommitment of the Organizations\nBoth parties agreed that they intend to contribute the following towards this partnerships:\nToken Swap:\nTo align governance interests, a Token Swap between the two organizations is initiated as part of this agreement. $50.000 worth of VITA will be swapped for $50,000 of D2D taken the 30-day average at the end of the vote on both sides. \n\n\nCo-liquidity Provision:\nTo enhance alignment, the DAOs \n\n1. VitaDAO will match the received D2D tokens with an equal value in BAL tokens from its treasury and add it to the 50% D2D x 50% BAL pool on Balancer.\n2. PrimeDAO will match the received VITA with an amount of WETH - equal to 25% of the amount received - and add it to the 80% VITA x 20% WETH pool on Balancer. \nBoth DAOs will be eligible to earn rewards associated with these two pools. There are no lock-ups or limitations to which the DAOs need to adhere to in regards to the received tokens, however it is expected that both DAOs will communicate any changes to the usage of the tokens to the other party.",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1646661604,
+        "end": 1646834412,
+        "snapshot": "14339811",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "Qme8Zh2dHLhau1n3djZVMQcUsAjbVZGV9xxj26X2hTsn5C",
+        "title": "Curve Labs Q1 22 Budget",
+        "body": "Do we accept the Curve Labs Q1 22 Budget as indicated in the Prime Forum: https://forum.prime.xyz/t/curve-labs-builder-cycle-9-proposal-february-march-191-5k/108\n\nThis is a resubmit since the previous proposal was not timed correctly.",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1646661601,
+        "end": 1646834418,
+        "snapshot": "14339810",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmVQtVi8riZzzAA9VgnzwfWV8zN9Da51EvzbTJDbhQzCHV",
+        "title": "Curve Labs Q1 22 Budget",
+        "body": "Do we accept the Curve Labs Q1 22 Budget as indicated in the Prime Forum: https://forum.prime.xyz/t/curve-labs-builder-cycle-9-proposal-february-march-191-5k/108",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1645462852,
+        "end": 1645635608,
+        "snapshot": "14250099",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmRRZmNAfbaD1UMNJrfaac7pSe1KAgXmY8kAGMLwYxvrqC",
+        "title": "Should we fund Ata, Namik, David, and Matteo's trips to EthDenver to represent PrimeDAO?",
+        "body": "As brought forward in the forum post (https://forum.prime.xyz/t/budget-request-for-attending-ethdenver-to-represent-primedao/109/1), we propose to allocate a budget of $4000 USDC for Namik Muduroglu (Launch), Ataberk Casur (Deals and Proposal Inverter), Matteo Lunghi (Dev), and David Carrera (Dev) to travel to EthDenver to represent PrimeDAO and make connections that can help the DAO source new talent, partners, and users for its products. We will be in Sync with Jahed from PrimeDAO, who is the Marketing Lead, as accountability for connections and potential opportunities. We will travel on separate days but our stay will encompass days between February 15 to February 20.\n\nThe cost breakdown can be found on the forum post. ",
+        "choices": [
+          "Fund them",
+          "Don't fund them"
+        ],
+        "start": 1644851724,
+        "end": 1645128033,
+        "snapshot": "14204980",
+        "state": "closed",
+        "author": "0x2c66a8ac7f8E6649581B137e86b4Bd15b75E20d6",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmXqpXXrB9LabdywtVMZX5JSPv2JyPBjm3W7cwJAJJbW9R",
+        "title": "Ecosystem Workstream Q1 22 Budget",
+        "body": "Do we accept the Ecosystem Workstream Q1 22 Budget as indicated in the Prime Forum: https://forum.prime.xyz/t/ecosystem-workstream-q1-22-budget/104\n\n\n- This is a resubmit as the previous proposal had an error with the vote date",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1644166836,
+        "end": 1644339647,
+        "snapshot": "14154728",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmQopUwZTvsTKuTfMYpeRTbFU15Z4VvqSPGYhCGvKL8861",
+        "title": "Kolektivo Labs Q1 22 Budget",
+        "body": "Do we accept the Ecosystem Workstream Q1 22 Budget as indicated in the Prime Forum: https://forum.prime.xyz/t/kolektivo-labs-q1-22-budget/102",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1644080452,
+        "end": 1644253201,
+        "snapshot": "14147133",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmdZ6QVJn1CPxi1vrhns9DAkPfULHgGjN8ybTg5VZ5mLQK",
+        "title": "DAOism Systems Q1 22 Budget",
+        "body": "Do we accept the Ecosystem Workstream Q1 22 Budget as indicated in the Prime Forum: https://forum.prime.xyz/t/daoism-systems-primedao-engineering-squad-formation-70k/101\n\n",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1644080437,
+        "end": 1644253244,
+        "snapshot": "14147128",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmNnBqcxxuJojkv4Bf9qBWcLvcWNritjAoDqJBbKBQfRLa",
+        "title": "Prime Rating Q1 22 Budget",
+        "body": "Do we accept the Ecosystem Workstream Q1 22 Budget as indicated in the Prime Forum: https://forum.prime.xyz/t/prime-rating-q1-budget-proposal-158-5k/99",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1644080432,
+        "end": 1644253239,
+        "snapshot": "14147121",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmTjDQNNJx9antLFrWYVkxF7WhrnWufLkKjZLTjJsby1He",
+        "title": "DAOops Workstream Q1 22 Budget",
+        "body": "Do we accept the DAOops Workstream Q1 22 Budget as indicated in the Prime Forum: https://forum.prime.xyz/t/daoops-workstream-q1-22-budget/103",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1644080414,
+        "end": 1644253219,
+        "snapshot": "14147117",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "Qmf7pzLVjujvGRgMrBkBV4UYgTmydrSc57gwMELco9ZZnf",
+        "title": "Ecosystem Workstream Q1 22 Budget",
+        "body": "Do we accept the Ecosystem Workstream Q1 22 Budget as indicated in the Prime Forum: https://forum.prime.xyz/t/ecosystem-workstream-q1-22-budget/104",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1644253227,
+        "end": 1644253243,
+        "snapshot": "14145860",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "0x58b30aa189c633323fcf8103689e211762b9d9996baa52a7ca10238fab6d35f4",
+        "title": "Do we fund Curve Labs Builder Cycle #7 Proposal: January",
+        "body": "This proposal is created for the Curve Labs contributions in January.\n\nA full breakdown of the proposal can be found in the Prime forum post below: https://forum.prime.xyz/t/curve-labs-builder-cycle-8-proposal-january-86k/91",
+        "choices": [
+          "Yes, fund the proposal!",
+          "No, do not fund the proposal."
+        ],
+        "start": 1642237200,
+        "end": 1642410000,
+        "snapshot": "14003852",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "0x828c2ed7e539435b6c0d4b2a92024444d9025dd8aee7f46a9c434e2a4bc0f89b",
+        "title": "Do we fund Kolektivo Labs Builder Cycle #7 Proposal: January",
+        "body": "This proposal is created for the Kolektivo Labs contributions in January 2022.\n\nA full breakdown of the proposal can be found in the Prime forum post below. https://forum.prime.xyz/t/kolektivo-labs-builder-cycle-7-proposal-january-71-2k/94",
+        "choices": [
+          "Yes, fund the proposal!",
+          "No, do not fund the proposal."
+        ],
+        "start": 1642237200,
+        "end": 1642410000,
+        "snapshot": "14003847",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmTBY3ryidsUsn9j3eSBF87rvp67BhunXR8dRWpMHu2Vvj",
+        "title": "Do we fund Curve Labs Builder Cycle #7 Proposal: January",
+        "body": "This proposal is created for the Curve Labs contributions in January.\n\nA full breakdown of the proposal can be found in the Prime forum post below: https://forum.prime.xyz/t/curve-labs-builder-cycle-8-proposal-january-86k/91",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1641988821,
+        "end": 1642161628,
+        "snapshot": "13989515",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmasmkZSrR2EfskLJUPSFfbhnQyzha3r13QEEwuBLy4hnj",
+        "title": "Do we fund Kolektivo Labs Builder Cycle #7 Proposal: January",
+        "body": "This proposal is created for the Kolektivo Labs contributions in January 2022.\n\nA full breakdown of the proposal can be found in the Prime forum post below. https://forum.prime.xyz/t/kolektivo-labs-builder-cycle-7-proposal-january-71-2k/92",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1641988801,
+        "end": 1642161611,
+        "snapshot": "13989509",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmZ9XYrrR5oaJeWeFav34n6bGrMwGQv7Um9EDZAXht14ns",
+        "title": "Do we acquire a The DAOist Ambassadorship? ",
+        "body": "All considerations are made in this forum post - deck, details, Q&A!  https://forum.prime.xyz/t/ambassador-sponsorship-to-the-daoist-dawn/89/5",
+        "choices": [
+          "Yes - Let's do the DAO Dance ",
+          "No - DAOists be Lamers "
+        ],
+        "start": 1639502788,
+        "end": 1639675603,
+        "snapshot": "13804617",
+        "state": "closed",
+        "author": "0xce7298E5ef1aE8AF0573eDC2eBd03aB0F837E214",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmccmHEfehthqoM8VvPvVgPq8ZeA1taZRPKbotws1c6XXW",
+        "title": "Partnership Agreement OlympusDAO <> PrimeDAO",
+        "body": "Background\nAs we move forward with our PRIME ($D2D) token launch, we want to signal our intent to make PrimeDAO a DAO co-habitation space by sharing ownership and securing long-term alignment with DAOs we will be closely working with. So, we are hoping to do token swaps with our strategic partners.\n\nSummary\nAfter discussions with the Olympus Partnerships contributors - PrimeDAO seeks to partner with Olympus asking for a swap of $250k in OHM - in return for 500k Prime Tokens (0.5% supply). Olympus would join Gitcoin and Balancer - who are partnering with PrimeDAO on similar terms.\n\nMotivation\n\nOlympusDAO is one of the DAOs we have been in close contact with, as we integrated some of the Olympus DAO contributors’ valuable feedback into our process for researching and designing Prime Deals.\n\nDuring these interactions, we have come to realize an exceptional alignment between Olympus and PrimeDAO: PrimeDAO’s product suite offers collaboration as service, and Olympus offers service as collaboration in its quest to evolve into an ecosystem-wide behemoth for advanced treasury management. In theory, there is no limit on how many DAOs can be integrated into Olympus’ D2D partnerships which span incubation, co-liquidity provision, OlympusPRO, token swaps, and many more to come. However, there is a limit to how many partnership pipelines the Olympus team can handle. PrimeDAO helps Olympus to scale its operational capacity by making the whole experience of negotiating and venturing with other DAOs a lot more efficient in multiple layers. On PrimeDAO’s side, partnering with Olympus would allow PrimeDAO to onboard the DAOs in Olympus’ ally network into its services.\n\nOlympus receiving Prime tokens will allow it to have a say over Prime’s governance from day one. It will also enable us to coordinate in a more aligned and intimate setting, giving each other a concrete representation to voice our needs as we iterate on our products moving forward.\n\nThere are a large numbers of areas we see for collaboration with Olympus as we roll-out - including:\n\nOlympus <> Prime Deals\n\nHave Olympus participate in the testing phase of token swap on Prime Deals, and if both parties agree, onboard Olympus on to Prime Deals for their future token swaps.\nCreate an open deal template customized for negotiating the Olympus Pro applications.\nWork with Olympus to integrate a sorting mechanism that allows for sorting the Pro applications based on a set of parameters.\nEnable $OHM holders to signal their preference over the Pro applicants whitelisted by Olympus.\nOlympus <> Prime Launch\n\nEnable $OHM/$gOHM into shortcut assets for DAOs to choose which asset to raise funds with.\nOnboard Olympus into Prime Launch’s seed module, whereby Launch facilitates the transactions with the incubated partners.\nOnboard Olympus and their incubated projects to Prime Launch for launching their projects.\nSynchronize Prime Launch’s selection process of onboarding DAOs into the seed module with applying to Olympus’ Incubation program as sequential phases of building up to the launch.\nOlympus <> Proposal Inverter\n\nWork with the Olympus team to integrate Tyche with Proposal Inverter so that the Olympus community can coordinate around which initiatives to direct fundings to\nEnable a novel method of funding public goods for the Olympus community and benefit from potential retroactive airdrops.\nSupport Building up to the Prime Token Launch\n\nIntroduction to the Olympus Community\nAdvice and assistance when needed from the Olympus team\nBootstrapping Liquidity for D2D\n\nUse of Olympus’ upcoming liquidity products to bootstrap our initial liquidity.\nUse of Olympus Pro to be able to own our liquidity.\nOnboarding $OHM into the Balancer Ecosystem\n\nAs a partner of both BalancerDAO and OlympusDAO, PrimeDAO will play an active role in bridging liquidity between the two protocols.\nBuilding a deep liquidity between D2D <> OHM <> BAL to allow LBPs to be able to select OHM as an efficient bootstrap asset and open up additional LaaS opportunities.\nConclusion\nOur partnership will set the stage for a strong collaboration between Olympus and Prime as we work towards becoming the primary coordination stream for DAOs. OHM wants to be the liquidity bridge/backend of the whole ecosystem. Olympus can utilize PrimeDAO as a coordination vehicle in calling a DeFi alliance and to strengthen the plasticity of ecosystem liquidity. By partnering with PrimeDAO, Olympus will be a leading voice in the creation of DAO2DAO products that enhance its offering and deal making mechanics, while supporting PrimeDAO’s push towards becoming a DAO co-habitation space.",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1638896420,
+        "end": 1639069227,
+        "snapshot": "13759275",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmPadK3Hw3sMJoW9ZdCkVsRgXkbRYAgNf3Tn9FS8rffpzv",
+        "title": "Partnership Agreement Gitcoin <> PrimeDAO",
+        "body": "Background\nWe want to turn DeFi into a cooperative ecosystem. While we are building these DAO2DAO products and services, we are paving the way for these interactions by dogfooding PrimeDAO itself into a headless brand— an open value network that builds effective organizational coordination tools to secure the collective future of DAOs all over the world.\n\nWe want to establish PrimeDAO as a hub for DAOs to come together and co-build DAO toolings and services. We have seeded this vision in our culture by collaborating with DAOs across multiple phases of researching, designing, and developing our products.\n\nAs we move forward with our PRIME ($D2D) token launch, we want to signal our intent to make PrimeDAO a DAO co-habitation space by sharing ownership and securing long-term alignment with DAOs we will be closely working with. So, we are hoping to do token swaps and mutual grant agreements with our strategic partners.\n\nSummary\n\nThis proposal, if passed, would grant Gitcoin $250K USD worth of PrimeDAO’s $D2D governance token at a price of $0.50 per token for a total of 500K $D2D coins, equating to 0.5% of Prime DAO treasury, and grant PrimeDAO $250,000 USD worth of $GTC.\n\nThe purpose of this alliance is to help ensure that Gitcoin and Prime can work together to build tooling for DAO2DAO coordination.\n\nMotivation\n\nGitcoin’s vision is to upgrade society’s capabilities to coordinate - with the hope of defeating coordination failure altogether.\n\nThe next frontier of coordination is DAO-to-DAO interaction. For a D2D ecosystem to flourish, it needs proper tooling to support new ways for DAOs to experiment with collaboration and joint ventures.\n\nAs a DAO of DAOs, Gitcoin is already a hub for inter-DAO coordination. It’s a natural home for R&D of coordination tools, including mechanisms like Quadratic Funding, that have already impacted the entire web3 space.\n\nWe see this relationship complementing Prime in the following ways:\n\nEnabling Gitcoin and PrimeDAO to have a direct stake in each other’s future direction\nStrengthening ties between and improving the shared bandwidth of Gitcoin and Prime teams\nCollaborating on building DAO 2 DAO tooling to usher in the next era of coordination\nBenefiting from the expertise in coordinating public goods funding of the Gitcoin community\nSpecification\n\nThe passing of this proposal would transfer $250,000 USD worth of $GTC to 0x567d220B0169836cBF351DF70A9c517096ec9De7, PrimeDAO’s specified Treasury address.\n\n500K $D2D, a 0.5% allocation, would be transferred to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6, Gitcoin’s multisig address for easier delegation / voting.\n\nUse of Funds\n\nTo ensure long-term alignment, Prime DAO will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the Gitcoin ecosystem.\n\nTo ensure long-term alignment, Gitcoin will hold no less than 50% of the tokens received through 2023 and act as a meta-delegate in the Prime DAO ecosystem.",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1638896456,
+        "end": 1639069209,
+        "snapshot": "13759261",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmfTWqtpq64baqKkrCxgFsbT5Aji5Y7QTqFDnh5DqtKnQH",
+        "title": "Partnership Agreement BalancerDAO <> PrimeDAO",
+        "body": "Partnership Purpose\nThe partnership aims to align the interest of the parties to intensify the collaboration between the organization. With PrimeDAOs relaunch, it seeks to further commit to the building on the Balancer Protocol and supporting the decentralization and development of the BalancerDAO.\n\nThe current Prime product suits, consisting of Prime Launch (LBP interface), Prime Rating (research sub-DAO), Prime Pools (DAO governed Balancer Pools) and Prime Deals (Interface for DAO agreements) aim to provide substantial value to BalancerDAO and aligned DAOs.\n\nBackground on the Partnership\nThe relationship between BalancerDAO and PrimeDAO goes back to Q4 2020. Since the launch of PrimeDAO in November 2020, the Balancer protocol has played a crucial role in the PRIME ecosystem. Initially coined the Prime LP Manager, PrimeDAO has governed all parameters of its main liquidity pool on Balancer, existing of 20% ETH and 80% PRIME via the PrimeDAO’s initial governance mechanism (Alchemy by DAOstack).\n\nIn Q1 2021, PrimeDAO set out to revamp the LBP experience for users and project teams alike after an uncomfortable experience with another launch product. Through a grant from Balancer Labs, the development of what is known as Prime Launch started. Prime Launch allows anyone to bootstrap a token without needing to write a single line of code. The product provides a crisp and user-friendly interface, support, and ecosystem of service providers that will enable the best decentralized launch experience (going live on December 13th, 2021).\n\nWith the development of Prime Launch, PrimeDAO became a Balancer v2 launching partner, and the collaboration extended to active technical and organizational development. In Q2 2021, Balancer and PrimeDAO made headlines by starting BLxPR, the first DAO2DAO pool, a shared liquidity pool between Balancer and PrimeDAO.\n\nSince then, the teams have continued to work together, and various PrimeDAO contributors have supported the development of BalancerDAO and the Balancer Protocol.\n\nAfter successfully re-branding and raising seed funds, PrimeDAO has grown to over 30 full-time contributors and is ready to launch its product suite and solidify relationships with aligned DAOs. Some of the DAO that have recently partnered include DeFI Safety and Gitcoin.\n\nCommitment of the Organizations\nBoth parties agreed that they intend to contribute the following towards this partnerships:\n\nD2D Collaboration\n\nPrimeDAO’s primary aim is enabling D2D collaborations and shares this vision with Balancer. PrimeDAO will support the development of the BalancerDAO and, where possible, share learnings and resources with BalancerDAO.\nBalancerDAO will get early access to Prime Deals , an Interface for DAO to DAO interactions, such as token swaps co-liquidity provision, and joint venture formation, to give input, to ensure the product serves the needs of BalancerDAO.\nTechnical\n\nPrimeDAO will continue to host Balancer LBP through Prime Launch and support the development of LBPs on Balancer.\nPrimeDAOs builders will continue to support the development of the Balancer Protocol.\nPrimeDAOs will support the development of the Balancer Protocol on alternative blockchains, currently evaluating the deployment of Balancer V2.0 on Celo and xDAI chain in collaboration with Symmetric, with the potential for it to develop into a Balancer Friendly Fork.\nOperational\n\nBoth DAOs will actively share DAO operational learnings and workflows, starting with a bi-monthly knowledge-sharing session covering three topics relevant to both DAOs. The first session will be organized in mid-January.\nMarketing\n\nTo ensure both entities will profit from each other’s reach and marketing or sales activities, we will do co-branded communication & services where applicable.\nCo-liquidity provision:\n\nTo align governance interests, between the two organizations, the creation of a co-liquidity pool is proposed with the following details; 25,000 BAL from the Balancer Ecosystem Fund would be transferred to PrimeDAO at the end of PrimeDAO own LBP to bootstrap a PRIME / BAL pool with 50/50 weights and 2,5% trading fees. Right after the conclusion of the PRIME LBP, PrimeDAO will seed a pool with the 25,000 BAL and match it with the same $ value in Prime. Once the pool is initiated, PrimeDAO will transfer 50% of the Balancer Pool Tokens to the Balancer Ecosystem Fund to complete the transaction.\nThe pool will again be called the Balancer <> PRIME pool (BLxPR) and function as a liquidity bridge between the two DAOs. The BLxPR pool will be one of the two main liquidity pools for PrimeDAO.\n\nGovernance\n\nThe BLxPR token will be added to the Snapshot strategies of both DAOs to allow BLxPR token holders to participate in the Governance of both protocols.\nA new snapshot will be set-up with the BLxPR as the governing token. This snapshot will be used to govern issues related to this DAO agreement.\nPool Optimization\n\nPrimeDAO aims to create deep liquidity between BAL <> PRIME to be able to bring more projects and liquidity to the Balancer Protocol. PrimeDAO aims to do this by actively engaging in D2D agreement with other DAOs and creating PRIME / xxx pools on the Balancer Protocol .\nPrimeDAO also aims to leverage the various upcoming Balancer Pools in combination with PrimeDAOs existing products. Prime Rating could potentially be utilized to create research-driven managed pools and Prime Deals could be connected to the Balancer Protocol to allow multiple DAOs to bootstrap a pool together in a completely permissionless way.",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1638896404,
+        "end": 1639069225,
+        "snapshot": "13759238",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmVXc47RdMVHQm7qq2qTjp1gmNDbkFSqrGvVpTX1RuZKts",
+        "title": "Do we fund Kolektivo Labs Builder Cycle #7 Proposal: December",
+        "body": "This proposal is created for the Kolektivo Labs contribution to the second half of Cycle #7.\n\nA full breakdown of the proposal can be found in the Prime forum post below.\nhttps://forum.prime.xyz/t/kolektivo-labs-builder-cycle-7-proposal-december-62k/85",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1638896435,
+        "end": 1639069243,
+        "snapshot": "13759233",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "Qmbrg2AdvnznRUC4ttywKZGFENEkTka1U5urQLxwyzuFeE",
+        "title": "Do we fund Curve Labs Builder Cycle #7 Proposal: December?",
+        "body": "This proposal is created for the Curve Labs contribution to the second half of Cycle #7.\n\nA full breakdown of the proposal can be found in the Prime forum post below: \nhttps://forum.prime.xyz/t/curve-labs-builder-cycle-7-proposal-december-80k/83",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1638896406,
+        "end": 1639069234,
+        "snapshot": "13759223",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmUmPvGTe96Lu5advyAwuekgcsce8fHu4669RQMsC8xjw2",
+        "title": "Prime Development Proposal #012: Prime Token (Re)Launch ",
+        "body": "Background & Motivation\nThis proposal is a follow up on PDP 008: Formalizing the transition to a new Prime token, token distribution and Seed Round terms. 2 Following multiple community and steward gatherings - we have identified the following preferences for the Prime Token (Re) Launch.\n\nFull proposal details and discussion here: https://forum.prime.xyz/t/prime-development-proposal-012-prime-token-re-launch/77",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1638471604,
+        "end": 1638644427,
+        "snapshot": "13728700",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmRDerKTQcnoXq9CiDxfiJ9f9vPyy259G5kpM9ZX6udfRD",
+        "title": "Do we fund Prime Deals audit?",
+        "body": "This proposal is created for the audit of Prime Deals smart contracts.\n\nA full breakdown of the proposal can be found in the forum post below: https://forum.prime.xyz/t/audit-funding-proposal-prime-deals/73",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1637535634,
+        "end": 1637708444,
+        "snapshot": "13663214",
+        "state": "closed",
+        "author": "0x23d817fA0F3C9F77e45880dBE99eDDfafB59142c",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmQT4Q2D2KSNfm8MTYnTmK7G3zUURTQryk6k1VJ8m5Vcki",
+        "title": "Do we fund Curve Labs Builder Cycle #7 Proposal: November?",
+        "body": "This proposal is created for the Curve Labs contribution to the first half of Cycle #7.\n\nA full breakdown of the proposal can be found in the forum post below:\nhttps://forum.prime.xyz/t/curve-labs-builder-cycle-7-proposal-november-70-5k/71",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1636376428,
+        "end": 1636549227,
+        "snapshot": "13575857",
+        "state": "closed",
+        "author": "0x23d817fA0F3C9F77e45880dBE99eDDfafB59142c",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "0xb0d8134af48845df261cfe3dba65a99455381b46a7c5804c6fffffa50f0469d2",
+        "title": "PrimeDAO Marketing and Outreach Funding Proposal: Up until the IDO (50K)",
+        "body": "This proposal is for PrimeDAO Marketing and Outreach Funding Proposal: Up until the IDO (50K).\n\nA full breakdown of the proposal can be found in the forum post below.\n\nhttps://forum.prime.xyz/t/primedao-marketing-and-outreach-funding-proposal-up-until-the-ido-50k/68",
+        "choices": [
+          "Yes, accept the proposal",
+          "No, do not accept the proposal"
+        ],
+        "start": 1636203600,
+        "end": 1636376400,
+        "snapshot": "13562984",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "0x2ed1a62f5ea959458c6e4b70fd430e3979272fc816be9899b3de10e12b6767ee",
+        "title": "Do we fund Kolektivo Labs Builder Cycle #7 Proposal: November",
+        "body": "This proposal is created for the Kolektivo Labs contribution to the second half of Cycle #7.\n\nA full breakdown of the proposal can be found in the forum post below.\n\nhttps://forum.prime.xyz/t/kolektivo-labs-builder-cycle-7-proposal-november-58k/70",
+        "choices": [
+          "Yes, accept the proposal",
+          "No, do not accept the proposal"
+        ],
+        "start": 1636203600,
+        "end": 1636376400,
+        "snapshot": "13562946",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmcNhz4Yedm9SWBpXzkhj22xrCQgJiZxBydCLyDfw9xb2o",
+        "title": "Proposal Inverter Spec and Model - TEC Labs Collaboration",
+        "body": "The proposal inverter must be built. This has been made clear by the many DAOs calling for its creation, including PrimeDAO. This will be a beneficial collaboration between Longtail Financial, Token Engineering Commons, Commons Stack, BlockScience, Curve Labs, and PrimeDAO. \n\nThe ‘Proposal Inverter’ is a high-demand DeFi component since the inception of the DAO ecosystem. It was documented in the original Commons Stack work as the ‘giveth proposal engine’. More recently, it has been written about in collaboration with BlockScience and PrimeDAO in ‘Exploring DAO2DAO Collaborations’ https://medium.com/primedao/exploring-dao2dao-collaboration-mechanisms-c37218a17a21 \nThe proposal inverter inverts the DAO-proposal relationship. Such that, instead of having many proposals for a single DAO, we will have many DAOs for a single proposal. This enables the collaborative funding of proposals that benefit multiple DAOs throughout the ecosystem. You can think of this as solving the byzantine general's problem for the collective funding of public goods for DAOs.\n\n\nThe specifications and modelling development is happening publicly through the Token Engineering Commons Lab. The lab has an open development session every Friday 9amPST/6pmCEST in the TEC discord. Longtail Financial is pooling additional development resources towards the modelling and spec. BlockScience is providing advisory, particularly through Dr.Z’s Open Research Office Hours and the previous iterations of modelling that have been done on the topic. \n\n\nNote that this proposal is for the creation of the Proposal Inverter specification and cadCAD model. After the completion of the spec and model, smart contracts must be developed, which may be a future proposal. It has been indicated that Curve Labs has the resources to develop the contracts upon completion of the spec and model.\n\n\nRequesting: 35k USDC + 35k Prime Tokens\n\nSent to: 0x8C6e8021de64150BF374640Eaf7732542D93aEb8\n\n07/30/2021 to 10/18/2021",
+        "choices": [
+          "Yay!",
+          "Nay!"
+        ],
+        "start": 1634318288,
+        "end": 1635631238,
+        "snapshot": "13423785",
+        "state": "closed",
+        "author": "0xA778be343C1Ee2D358a0f7a0C923C53d79277F3c",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmRVyXJjoYPJ6FtCwWXoQMVzN7eU8RL6HZxjuhcZsX7DfQ",
+        "title": "Do we fund the Prime Launch LBP audit?",
+        "body": "This proposal is created to fund the audit of the Prime Launch LBP module.\n\nA full breakdown of the proposal can be found in the forum post below.\n\nhttps://forum.prime.xyz/t/audit-funding-proposal-prime-launch-lbp-12k/65",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1633777203,
+        "end": 1633950009,
+        "snapshot": "13384108",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmVzGVFah2VBZz5yLsYM1MrVgxZCRWy8L7sS2474aMQ1kv",
+        "title": "Do we fund Prime Rating Season 1?",
+        "body": "This proposal is created to fund the first Season of Prime Rating.\n\nA full breakdown of the proposal can be found in the forum post below.\n\nhttps://forum.prime.xyz/t/prime-rating-season-1-funding-proposal/66",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1633777241,
+        "end": 1633950049,
+        "snapshot": "13384104",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmTEhPcEzdESYkJ4kqr2u3UggUoYsWtC5yHXsCqxKpG9ht",
+        "title": "Do we fund Kolektivo Labs Builder Cycle #6 Proposal: October",
+        "body": "This proposal is created for the Kolektivo Labs contribution to the second half of Cycle #6.\n\nA full breakdown of the proposal can be found in the forum post below.\n\nhttps://forum.prime.xyz/t/kolektivo-labs-builder-cycle-6-proposal-october-56k/63",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1633777211,
+        "end": 1633950018,
+        "snapshot": "13384096",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmNNRz69eSbKXk3TioFw8ESEk8GUUnLMJzTU6xGxQenzFe",
+        "title": "Do we fund Curve Labs Builder Cycle #6 Proposal: October",
+        "body": "This proposal is created for the Curve Labs contribution to the second half of Cycle #6.\n\nA full breakdown of the proposal can be found in the forum post below.\n\nhttps://forum.prime.xyz/t/curve-labs-builder-cycle-6-proposal-october-79k/59",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1633777223,
+        "end": 1633950031,
+        "snapshot": "13384083",
+        "state": "closed",
+        "author": "0x58Ff691f7849b0666085CFb693568160Cfb9d22D",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmPXVaheapKBn4oi3NfYedG3onGx78TQh4iLWWh5vKSWCZ",
+        "title": "Prime Development Cycle 6 Reputation Update",
+        "body": "This proposal aims to update the PrimeDAO Voting Power (REP) to reflect the contributions made in Prime Development Cycle 5. The main stakeholders who are eligible to receive REP are A. Prime Seed Contributors and B. Prime Development Cycle 3, 4 & 5 Contributors.\n\nA full breakdown of the proposal can be found in the forum post below.\n\nhttps://forum.prime.xyz/t/prime-development-cycle-6-reputation-update/58",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1632726000,
+        "end": 1632898800,
+        "snapshot": "13302974",
+        "state": "closed",
+        "author": "0x04d63662227e4742236A46399d005f988e0883Cf",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "Qmct4KHeTaTPcC2TH77KKpZeWVEWqmPteM2Q2DCSdphzBg",
+        "title": "Do we fund Curve Labs Builder Cycle #6 Proposal: September",
+        "body": "This proposal is created for the Curve Labs contribution to the first half of Cycle #6.\n\nA full breakdown of the proposal can be found in the forum post below.\n\nhttps://forum.prime.xyz/t/curve-labs-builder-cycle-6-proposal-september/57",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1631534457,
+        "end": 1631707208,
+        "snapshot": "13217202",
+        "state": "closed",
+        "author": "0x04d63662227e4742236A46399d005f988e0883Cf",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      },
+      {
+        "id": "QmTq4UEsvY6HJNXx7XkJNj1T7exX1AKvyCF9Bm8b2F5WAM",
+        "title": "Do we fund Kolektivo Labs Builder Cycle #6 Proposal: September",
+        "body": "This proposal is created for the Kolektivo Labs contribution to the first half of Cycle #6.\n\nA full breakdown of the proposal can be found in the forum post below.\n\nhttps://forum.prime.xyz/t/kolektivo-labs-builder-cycle-6-proposal-september/56",
+        "choices": [
+          "Yes, accept the proposal!",
+          "No, do not accept the proposal."
+        ],
+        "start": 1631534400,
+        "end": 1631700000,
+        "snapshot": "13217072",
+        "state": "closed",
+        "author": "0x04d63662227e4742236A46399d005f988e0883Cf",
+        "space": {
+          "id": "primexyz.eth",
+          "name": "PrimeDAO"
+        }
+      }
+    ]

@@ -1,0 +1,78 @@
+[
+      {
+        "id": "0x4df6507740fa05cbbbd296d270fd20c63be8cb3e819fdb6aa6fdf34dd8fdf7f3",
+        "title": "Should we support CULT DAO in launching a CULT/ETH RegenFarm?",
+        "body": "They are interested in setting up a RegenFarm to rewards their liquidity providers for CULT/ETH on Mainnet.\n\nLots of context is given in the forum post [here](https://forum.giveth.io/t/cult-dao-regen-farm/518).",
+        "choices": [
+          "Yes, let's DAO it",
+          "No",
+          "Abstain"
+        ],
+        "start": 1650140931,
+        "end": 1650572931,
+        "snapshot": "14598536",
+        "state": "closed",
+        "author": "0xC46c67Bb7E84490D7EbdD0b8ecDaca68Cf3823F4",
+        "space": {
+          "id": "giv.eth",
+          "name": "Giveth"
+        }
+      },
+      {
+        "id": "0xf68897df1e7d25344091616dccc94b3ab74b518cd0b8d2f997a0c2ae0afebfeb",
+        "title": "Setup GIV/DAI Farm on Uniswap v2?",
+        "body": "Following the Closure of the Univ3 Farm we discussed implementing a new liquidity solution on Uniswap. The process has begun to create the Angel Vault using $oneGIV -https://forum.giveth.io/t/giveth-ichi-angel-vault-proposal/443/26\nHowever, it's become clear that this process will take time and has some complexities. \n\nI would propose for the short term to fire up a GIV/DAI GIVfarm using Uniswap v2 to cover this gap and provide another farming opportunity for mainnet liqudity provision. \n\nThis idea was discussed and received some favour in this thread -\nhttps://forum.giveth.io/t/mainnet-liquidity-solution-ideas-now-that-univ3-is-being-turned-off/440/10\n\nThese are the specs I propose for the farm:\n- Allocate 750k GIV in Rewards\n- Program ends in June 2022 -  same as the other pools (less than 2 months)\n- Follows the same distribution % wave as the GIV/ETH BAL Pool",
+        "choices": [
+          "Yes! DAO it",
+          "No! ",
+          "Abstain"
+        ],
+        "start": 1649767354,
+        "end": 1650199354,
+        "snapshot": "14570673",
+        "state": "closed",
+        "author": "0x826976d7C600d45FB8287CA1d7c76FC8eb732030",
+        "space": {
+          "id": "giv.eth",
+          "name": "Giveth"
+        }
+      },
+      {
+        "id": "0xea52f92344b3f13e66d0966abb946c020725297ae581b30b02cff3df3454649a",
+        "title": "Should we end the mainnet GIVsteams of the univ3 \"middle fingers\"?",
+        "body": "This is a proposal to terminate the disproportionate mainnet GIVstreams allocated to 3 address who took advantage of information asymmetry & got huge earnings from providing concentrated liquidity in Univ3 rewards program.\n\nAs you may be aware, the Univ3 rewards program was poorly designed based on incorrect assumptions. We later became aware that a handful of addresses were privvy to information asymmetry and were taking advantage of the program providing concentrated liquidity and earning rewards disproportionate to the value-added to the community. No significant mainnet rewards were earned by other means & in many cases, these addresses have been dumping the GIV earned.\n\nOn March 21, 2022 after unanimous community approval, we [terminated the univ3 rewards program](https://forum.giveth.io/t/the-univ3-farm-is-being-taken-advantage-of-we-need-to-fix-it/413) to protect the GIVeconomy.\n\nThere is still a balance of more than 2.6 million GIV on mainnet in the Token Distro allocated to the address that were taking advantage of our poorly designed rewards program, which is set to flow via the GIVstream until December 2026.\n\nIn there interest of the long-term sustainability of GIV and the GIVeconomy, this is a proposal to terminate the mainnet GIVstreams of these 3 addresses.\n0x213439b642dbb9d5ee7bafdafb1f33f9ab8b7e35\n0xb66edbf805783e67a9b1039f7524e5009631c847\n0x261f436676cfa456a8f086a850160e97550aea9c\n\nAnalysis and significant context is given in [this forum post](https://forum.giveth.io/t/the-univ3-farm-is-being-taken-advantage-of-we-need-to-fix-it/413)",
+        "choices": [
+          "Yes, terminate those GIVstreams",
+          "No",
+          "Abstain"
+        ],
+        "start": 1649687525,
+        "end": 1650119525,
+        "snapshot": "14564854",
+        "state": "closed",
+        "author": "0x839395e20bbB182fa440d08F850E6c7A8f6F0780",
+        "space": {
+          "id": "giv.eth",
+          "name": "Giveth"
+        }
+      },
+      {
+        "id": "0xfad6aa3baa36d5f2d7acdf135752aafca06201b77a80aee79baf6ff3f5bbaae5",
+        "title": "Should we shut off the univ3 rewards? ",
+        "body": "The univ3 rewards program is being taken advantage of, with huge rewards going to one party who is dumping the GIV and hurting the economy. \n\nThere is significant context given in the forum post: https://forum.giveth.io/t/the-univ3-farm-is-being-taken-advantage-of-we-need-to-fix-it/413/7\n\nIf this vote passes, we will shut off the rewards program on March 21.\nNext steps would be:\n1. Communicate to our users that we’re shutting it off & ask them to claim rewards\n2. On March 21, take a snapshot of current stakers & unclaimed rewards earned\n3. Shut off rewards program\n4. Distribute any unclaimed rewards to users to be claimed",
+        "choices": [
+          "Yes",
+          "No",
+          "Abstain"
+        ],
+        "start": 1646844005,
+        "end": 1647276005,
+        "snapshot": "14353691",
+        "state": "closed",
+        "author": "0xC46c67Bb7E84490D7EbdD0b8ecDaca68Cf3823F4",
+        "space": {
+          "id": "giv.eth",
+          "name": "Giveth"
+        }
+      }
+    ]

@@ -1,0 +1,254 @@
+[
+      {
+        "id": "0x8c7bcee958a93160f95313a23a39a90080cb1f1774939114d6677cf745984be4",
+        "title": "GIP-005: Should borrower's get retroactive airdrop ?",
+        "body": "Should borrowers get retro airdrop ?\nThis proposal suggests a 0.857% retroactive airdrop for early Borrowers, vesting over 2 years. \n\nVoting:\n“Yes” - Means allocate 0.857% of GFI to early Borrowers as a retroactive airdrop\n“No” - Means do nothing.\n\nSummary\n\nBased on the proposals for the Backer Airdrop, this proposal suggests that Goldfinch allocates a separate retroactive reward % to the early Borrowers who participated in the protocol prior to the token launch. See full data calculations behind the proposed airdrop here 15.\n\nMore concretely, this proposal suggests a 0.857% retroactive airdrop for early Borrowers, vesting over 2 years. This is broken up into 2 “parts”. An “annual interest” based portion, and an “Early Partner” bonus.\n\nMore discussion on the proposal here - \nhttps://gov.goldfinch.finance/t/gip-05-retroactive-borrower-airdrop/821\n",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1649134800,
+        "end": 1649394000,
+        "snapshot": "14522623",
+        "state": "closed",
+        "author": "0x0773A995E752eec6456Ae887DEC5D4e06479FA9C",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0xae1eb2cc57999266df3c4ff585fe6f8f451ccdefcabf9f391888805db981c8db",
+        "title": "test",
+        "body": "test",
+        "choices": [
+          "yes",
+          "no"
+        ],
+        "start": 1648506583,
+        "end": 1648765783,
+        "snapshot": "14477373",
+        "state": "closed",
+        "author": "0x8fEab515323815c34972cfb4ec2DbC2030336772",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0x478aeb76c14d6d944558fdf4ec68d4cbbeace464f8d1d7364bcd2442e807c73e",
+        "title": "Should \"GIP-09: Update GFI rewards param for Curve LP\" proposal be approved?",
+        "body": "Update the configurable effectiveMultiplier parameter in the StakingRewards contract from 0.50 to 0.75 on the FIDU-USDC Curve LP positions to be staked for GFI liquidity mining rewards. This is important to properly incentivize liquidity to be deposited into the FIDU-USDC Curve pool by bringing projected APYs of staking the Curve LP position closer inline with staking FIDU-only.\n\nProposal discussion: https://gov.goldfinch.finance/t/gip-09-update-gfi-rewards-param-for-curve-lp/860/3\n\nYES - Approve a change to update the effectiveMultiplier parameter from 0.50 to 0.75.\n\nNO - Reject the proposed changes.",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1648158052,
+        "end": 1648417252,
+        "snapshot": "14450498",
+        "state": "closed",
+        "author": "0x6d8b09Ebcd47489c77F50599C30c6726E38AFF6A",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0x6f88febdb36f5510c3fe7fd8e07da94f5cad7670f9af54fcb29c60a93d3eac16",
+        "title": "GIP-06: Should the proposed Goldfinch Roadmap be passed?",
+        "body": "\nEvery step along the way, we must identify the main constraint to growth and find ways to remove it. We can think of the constraints in terms of the different sides of the Goldfinch marketplace: borrowers, backers, and LPs. Right now, the recent new pools show ample demand from high quality borrowers. But backers and LPs are still a constraint. We can solve this constraint in three core ways —\n\nEngine: The core functionality of the protocol. There are a number of core functional elements of the protocol that we still need to build in order to enable massive scale. We need to finish building this engine.\n\nAccess: The ability and ease for people to use the protocol. Even with an engine built, there are limits to who might be able to access it. We need to make it incredibly easy for anyone in the world to use Goldfinch — from individuals all the way to major institutions.\n\nCommunity: The group of people building the protocol’s engine and access. None of this is possible without an amazing community to make it happen. We need to foster the community of people who will build this engine and improve people’s access to it.\n\nWe propose efforts across all three of these core areas, both for the immediate term (6 months) and mid term (6-12 months). We leave longer term efforts (12+ months) for future discussions after we learn from these efforts.\n\nProposal discussion: https://gov.goldfinch.finance/t/gip-06-proposed-goldfinch-roadmap/825\n\n“Yes” - pass the proposal\n\n“No” - Do nothing",
+        "choices": [
+          "Yes - pass the proposal",
+          "No - do nothing"
+        ],
+        "start": 1647642857,
+        "end": 1647902057,
+        "snapshot": "14413108",
+        "state": "closed",
+        "author": "0x501B06e19675Eb0107ad13e7d3379c3389222f20",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0x5809cb1571775c1bee246d6faed47632eefe6808a5ec66a07a944e14bca43bca",
+        "title": "GIP-07: Should Support Entities on Goldfinch be Approved?",
+        "body": "In order to allow more people and entities to participate as Liquidity Providers and Backers in Goldfinch, we propose enabling two new UID types: US entity, and non-US entity. This proposal would:\n\na) Allow both new UID types to participate in the Senior Pool\n\nb) On a case-by-case basis, allow Borrowers to choose which of these UID types to enable in their specific pools.\n\nThis will not impact any existing participants, UIDs, or capital already deployed through Goldfinch.\n\nProposal discussion: https://gov.goldfinch.finance/t/gip-07-support-entities-on-goldfinch/830\n\n“Yes” - Permit ID_TYPE 3 and 4 — U.S. and non-U.S. entities, respectively — to supply capital to the Senior Pool.\n\n“No” - Do nothing",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1646688952,
+        "end": 1646948152,
+        "snapshot": "14342162",
+        "state": "closed",
+        "author": "0x6d8b09Ebcd47489c77F50599C30c6726E38AFF6A",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0x53067d7624b5fea9a46477a2f655b896dc6e70508a8dfe4568a39f30d96ea645",
+        "title": "Should New Community Management, Roles be implemented and Backpay be paid?",
+        "body": "In order to adjust the protocol demand post-flight academy and token launch, we propose a new community management structure to suit the protocol’s short to medium-term needs as well as backpay the prior community management members post token launch until February 15, 2022.\n\nProposal discussion: https://gov.goldfinch.finance/t/gip-08-new-community-management-roles-and-backpay/834\n\n“Yes” - Approve the new community management mandate and backpay.\n\n“No” - Don’t approve.",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1646687993,
+        "end": 1646947193,
+        "snapshot": "14342096",
+        "state": "closed",
+        "author": "0x6d8b09Ebcd47489c77F50599C30c6726E38AFF6A",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0xe61dc995679ff77b92f6faffacddf65874dc830b168711169344ed3f70f1eb71",
+        "title": "Should Eligible Voting GFI be Expanded?",
+        "body": "In an effort to open up voting to the most strongly aligned members of the community, we propose to allow still locked tokens from the various airdrops to be used for voting. We also propose allowing the vested, but unclaimed tokens from FIDU staking to be used. Lastly, we propose increasing the quorum by 2X to account for the increase in eligible GFI.\n\nProposal discussion: https://gov.goldfinch.finance/t/gip-04-expand-eligible-voting-gfi/818\n\n“Yes” - Allow locked but unvested GFI from airdrops to be eligible for voting, and also allow claimable FIDU rewards to be eligible for voting\n\n“No” - Do nothing",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1646161123,
+        "end": 1646420323,
+        "snapshot": "14302850",
+        "state": "closed",
+        "author": "0x6d8b09Ebcd47489c77F50599C30c6726E38AFF6A",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0x22a49f3f8e12905cb010bae94fd70b37b51fccea9a6798377ae4fb89d1d73786",
+        "title": "GIP-03: No cost/forfeit to swap FIDU into Backer NFTs",
+        "body": "## **Summary**\n\nAs an investor on Goldfinch, we would like to use FIDU to invest in select Junior tranches to get Backer NFTs without incurring withdrawal costs and without forfeiting GFI rewards. We believe that it will bring additional liquidity into Junior tranches.\n\n## **Motivation**\n\n1. **FIDU as the entry point for investing:** It will make it easier for Senior Liquidity Providers to act as Backers when they spot a junior investment that they find attractive. We believe that Senior investing is a good entry point for newcomers to the Goldfinch protocols, so this would lower the barrier to becoming a Backer. It will also enable institutional investors to place their capital in senior tranches to earn a passive income while they scout junior investment opportunities on Goldfinch.\n2. **Junior financing predictability:** Part of the funds in the FIDU will thus become available to invest in Junior tranches. Over time, patterns will emerge on the volume of financing that converts from FIDU into junior investing opportunities.\n\n## Description\n\nWe seek to invest in Junior tranches as Backer but Junior investments are not always available. Until such an investment is available, we need to place our funds in a liquid asset outside of the Goldfinch ecosystem. Currently, when there is no junior investment available, we can farm yield on Compound and other protocols but we would rather place our funds in FIDU (to earn yield from borrower pools + compound yield).\n\nThe main issue currently is that if we use FIDU staked for less than 12 months, we have to forfeit part of our GFI rewards to redeem the USDC and use them to invest in a junior tranche. This is because the GFI distributions received from liquidity mining unlock linearly over the first 12 months of staking. This means that while one can withdraw their FIDU whenever they like, if they withdraw before 12 months, they will forfeit some of their GFI distributions. For example, after 3 months they’d forfeit 75%, after 6 months they’d forfeit 50%, and so on. After 12 months, they will continue to receive distributions, and will never forfeit any GFI.\n\nThe second issue is the withdrawal fee. A charge of 0.5% is applied to all redemptions of FIDU.\n\nBoth of these issues result in structural incentives that keep investment capital earmarked for junior tranches, outside of the Goldfinch ecosystem.\n\nTo make it economically viable to store funds in FIDU to invest in junior on Goldfinch, we propose to enable FIDU holders to use their FIDU to invest in junior tranches at the exchange rate without incurring penalties on GFI rewards and without paying withdrawal fees.\n\n## **Specification and Requirements**\n\n**Specification**\n\n- Enable FIDU holders to exchange FIDU for backers NFTs without incurring withdrawal fees nor forfeiting GFI rewards. A user would exchange their FIDU for an NFT representing their investment in a junior tranche. Behind the scene, the following would happen:\n    1. Swap FIDU in a transaction fee-less exchange for USDC via the Pool.sol contract\n    2. Burn the FIDU in Pool.sol\n    3. Deposit USDC into the TranchedPool.sol in exchange for a Junior NFT\n    \n\n**Benefits**\n\n- Makes it easier for Senior Liquidity Providers to act as Backers when they spot a junior investment that they find attractive. It makes it possible to have a Goldfinch-centric investment strategy.\n- Enables borrower pools to fill up faster since senior capital already locked in FIDU can also be invested in Junior.\n- Since FIDU can be used to invest in Junior, it would make it easier to estimate the availability of financing for borrowers.\n\n**Downside**\n\n- There may be some additional volatility in the availability of senior capital for all borrowers.\n\n**Proposal discussion:** [https://gov.goldfinch.finance/t/gip-03-no-cost-forfeit-to-swap-fidu-into-backer-nfts/784/6](https://gov.goldfinch.finance/t/gip-03-no-cost-forfeit-to-swap-fidu-into-backer-nfts/784/6)\n\n**Voting**\n\n“Yes” - No cost/forfeit to swap FIDU into Backer NFTs\n\n“No” - No change",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1645814530,
+        "end": 1646073730,
+        "snapshot": "14276946",
+        "state": "closed",
+        "author": "0x1c321Fc53bEF33a25F97c506439C675b95A4c046",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0xf7ce5bfef70ac2e60ebdb5654702b069440076241ab474ad98382ae1ff6cd056",
+        "title": "Should the existing Leverage Ratio be increased from 3x to 4x?",
+        "body": "This builds on the back of a proposal by @Billy Bill which was supported by @SAM226 in Discord to increase the existing Leverage Ratio from 3x to 4x. This proposal is further backed by the scale Goldfinch has achieved deploying $39m across 18 countries with a 0% default rate. This proposal suggests Goldfinch take on incremental risk with the leverage ratio which would result in higher APY’s for Backers (in addition to this existing GFI rewards), and a higher utilization of the Senior Pool.\n\nMore concretely, this proposal suggests two things for consideration by the community:\n\n1. Goldfinch increases the Leverage Ratio from 3x —> 4x resulting in:\na. On average increasing their top-line APY returns by 2-3% (eg. 15% → 18%)\nb. In exchange for Senior Pool decreasing the first loss portion by a modest 5%, but also being able to increase pool utilization and Senior Pool APY’s given more senior capital is deployed into every pool\nc. Borrowers would be able to close pools more quickly due to smaller Backer pools being required\n2. This would affect any open pool from Almavest Basket #6 onwards until either a new leverage ratio has been approved, or until the automated Leverage Ratio as conceived in the whitepaper goes live.\n\nProposal discussion: https://gov.goldfinch.finance/t/gip-02-increase-the-existing-leverage-ratio-from-3x-to-4x/789\n\n\"Yes\" - Increase the leverage ratio from 3x to 4x affecting pools from Almavest Basket #6 onwards\n\n\"No\" - Do nothing",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1644957032,
+        "end": 1645216232,
+        "snapshot": "14212880",
+        "state": "closed",
+        "author": "0x6d8b09Ebcd47489c77F50599C30c6726E38AFF6A",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0x706428617fe5fddc3646a79d97c744a167b7b9381768e1f5bfa678d9cb5ce0fb",
+        "title": "Should FIDU-USDC Curve LP positions be allowed to be staked for GFI liquidity mining rewards?",
+        "body": "Goldfinch should allow FIDU-USDC Curve LP positions to be staked for GFI liquidity mining rewards.\n\nGFI rewards would come from the existing distribution parameters to the Senior Pool Liquidity Mining program, and only the FIDU portion of the Curve LP position would be eligible for GFI rewards. This would help create a liquid secondary market of FIDU and USDC, which (a) reduces the friction of entering and exiting Goldfinch Senior Pool positions, (b) results in more USDC staying in the Senior Pool, and (c) allows people to get exposure to the Goldfinch Senior Pool by simply purchasing FIDU on Curve.\n\nProposal discussion: https://gov.goldfinch.finance/t/gip-01-allow-fidu-usdc-curve-lp-positions-to-be-staked-for-gfi-liquidity-mining-rewards/734\n\n“Yes” - Approve a change to allow staking of FIDU-USDC Curve LP tokens on Goldfinch, and include the FIDU portion of the position in the Senior Pool Liquidity Mining program. These GFI rewards will be subject to the same existing distribution rate parameters and token unlock schedule. This change would be funded with a 3,500 GFI development grant from the Community Treasury.\n\n“No”  - Reject the proposed changes. Do not approve a change to allow the staking of FIDU-USDC Curve LP tokens on Goldfinch to participate in the Senior Pool Liquidity Mining program.",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1644540600,
+        "end": 1644799800,
+        "snapshot": "14181550",
+        "state": "closed",
+        "author": "0x6d8b09Ebcd47489c77F50599C30c6726E38AFF6A",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0x10a390307e3834af5153dc58af0e20cbb0e08d38543be884b622b55bfcd5818d",
+        "title": "Should the participation of Backers in the Staking Rewards be enabled?",
+        "body": "After some analysis (Backer APY Model), it became clear that it’s possible in certain states of the Senior Pool for Backers to have lower APYs than Senior Pool Liquidity Providers (LPs). This would break the risk / reward relationship between Backers and LPs, and could effectively block any new deals from happening. To correct this, and to make the decision to be a Backer vs. an LP an easier mental decision, this proposal suggests letting Backers participate in Staking Rewards (SR) liquidity mining (which is currently just for the Senior Pool). This would be in addition to the existing Backer Liquidity Mining that is set to go live very soon.\nBacker APY Model: https://docs.google.com/spreadsheets/d/15fVbX8IIWe6FiuCWs4uwNW3vP8Hci9jqNbfIEP50MOU/edit#gid=0\nProposal discussion: https://gov.goldfinch.finance/t/backer-participation-in-staking-rewards/682\n\n“Yes” - Enable Backer’s to participate in the Staking Rewards.\n\n“No” - No change\n",
+        "choices": [
+          "Enable Backer’s to part. in SR",
+          "No change"
+        ],
+        "start": 1643843160,
+        "end": 1644102360,
+        "snapshot": "14129028",
+        "state": "closed",
+        "author": "0x6d8b09Ebcd47489c77F50599C30c6726E38AFF6A",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0x5c4b439b59cc355cc8d8bdf44b23263514cf2265052327618299865ce7ec4adc",
+        "title": "Tokens sent to contract address and lost",
+        "body": "Proposal title: \"Fatal mistake of Goldfinch members, need community help\" \n\nProposal authors: \"I suggest finding a way to get lost tokens back to people. It may be - partial compensation, or future contract update according to the standard token ERC-223\"\n\n\nDear community, some of our members have made a fatal mistake. Due to the token claim rush and high gas, a couple number of our community members sent their GFI tokens to the Goldfinch contract address by mistake. That’s almost all of their rewards they’ve received. They sent them back to Goldfinch.\n\nI respect the team and understand that it is very strange to demand the return of tokens back, since it is technically impossible.\n\nBut I want to ask you to look into this situation, which could happen to each of you, and show maximum loyalty to our strong community and the goldfinch team. Try to give them at least partial compensation. After all, these are people who believe and love GOLDFINCH, they actively participated in the academy and supported GOLDFINCH. This is a human factor, but they did not receive anything for their efforts and work. They received and return back in GOLDFINCH.\n\nI want to ask to delve into this situation that could happen with each of you. And to show the maximum loyalty of our strong community unit and the Goldfinch team. Try to return to them at least partial compensation. After all, these are people who believe and love Goldfinch, they actively participated in the Academy and supported Goldfinch. This is a human factor, but they did not receive anything for their efforts and work. That is, they got and returned back into Goldfinch. \nI propose to create a Google form in which to specify the wallet number and transaction code and communication data. Make an announcement and give a certain time to all who made this mistake, to complete an application\n\nLink: https://gov.goldfinch.finance/t/fatal-mistake-of-goldfinch-members-need-community-help/542\n\nVoting\n\n“Yes” - Means that you are voting to help people get their tokens back.\n\n“No” - Means do nothing.",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1643533200,
+        "end": 1643792400,
+        "snapshot": "14101903",
+        "state": "closed",
+        "author": "0x2DFE1e54a1c9b6Ff874da1A4390326115e6f9eF9",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0xb716c18c38eb1828044aca84a1466ac08221a37a96ce73b04e9caa847e13e0da",
+        "title": "Should 1.66% of GFI be allocated to early Backers as a retroactive airdrop, and 2% allocated to Backer Liquidity Mining?",
+        "body": "Proposal title: Retroactive Backer Distribution Proposal #4 (Same as #3 with ammendment)\n\nProposal authors: Blake West and Mike Sall, co-founders Warbler Labs\n\nSummary of proposal\n[This is a summary of the proposal as copied from the proposal on gov.goldfinch]\n\nBuilding on the proposal by @velvetdoctor and @Freedom15, and using the “capped” concept in the proposal by @CognitiveLiberty (which is also how the LP airdrop worked), this proposal suggests that Goldfinch allocates a separate retroactive reward % to Backers, as well as implements on-going liquidity mining for Backers. See full data behind the proposed airdrop here: https://docs.google.com/spreadsheets/d/1zYEHLx1lOQSEfBSyCp1WFWIPKon4PD5kF4dod7Bhl4I/edit#gid=800477816\n\nMore concretely, this proposal suggests two things for consideration by the community:\n\n1.66% for the retroactive Backer airdrop to give them 2X APY’s of the LP airdrop . This is broken up into 4 “parts”. A “capped” reward, an “uncapped reward”, a “risk bonus”, and “theoretical liquidity mining” for the pools already contributed to, but which will not be able to participate in Backer Liquidity Mining once it is turned on. Each item is explained in detail below.\nAllocating 2% for Backer Liquidity mining, to be activated as soon as possible . This proposal also explains how Backer Liquidity Mining works, and suggests keeping the 2% allocation previously described.\n\nThe full proposal with the community discussion can be found here: https://gov.goldfinch.finance/t/retroactive-backer-distribution-proposal-3-with-data/252/1\n\nThe ammendment with the community discussion can be found here:\nhttps://gov.goldfinch.finance/t/retroactive-backer-distribution-proposal-4-same-as-3-with-ammendment/505\n\nVoting\n\n“Yes” - Means allocate 1.66% of GFI to early Backers as a retroactive airdrop, and allocate 2% to Backer Liquidity Mining, as already designed and deployed.\n\n“No” - Means do nothing.",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "start": 1642788000,
+        "end": 1643047200,
+        "snapshot": "14050384",
+        "state": "closed",
+        "author": "0x30Df16cd7D612C5B25bEb0331486b127a42Ac371",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      },
+      {
+        "id": "0xd83a39e678102c62cb337b98e2be15d698876ca2fd9cec75cc3f3e7f4657f787",
+        "title": "About gold on-line cex",
+        "body": "Listed on coinbase exchange",
+        "choices": [
+          "YES",
+          "NO"
+        ],
+        "start": 1641960000,
+        "end": 1642219200,
+        "snapshot": "13985753",
+        "state": "closed",
+        "author": "0xcf063167C13aBFE9E8D2447557BEd970510eD01c",
+        "space": {
+          "id": "goldfinch.eth",
+          "name": "Goldfinch"
+        }
+      }
+    ]

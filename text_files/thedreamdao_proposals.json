@@ -1,0 +1,398 @@
+[
+      {
+        "id": "0x22ac94cc5dafa006ca84046dc53229415d223faafb9eb558389d81ea05834661",
+        "title": "DREAM DAO PROPOSAL #20: Solidify the Election Process Design",
+        "body": "🎯**Goals**:\n\nTo execute the election design progress outlined in the [Election Process Overview](https://www.notion.so/Election-Process-Overview-e5036ccae8ee47f297f9d4dd4382fd46) which includes: \n \n\n    \n*Establishing an election integrity board of at least 2 neutral builders who are not running for the position and one champion advisor on a volunteer basis\n*Executing the voting timeline.\n*Using **closed ballots** to conduct all voting.\n*Ensuring voter engagement through having candidates produce candidate statements which are distributed through a special edition of the Dream Journal.\n\n🏋️Point of Contact:\n- Shreya#1485\n- Spacenihilist#8886\n\nLEARN MORE: https://www.notion.so/cucrew/DREAM-DAO-PROPOSAL-20-Solidify-the-Election-Process-Design-4c167078a4e249abbef8d2f7aa5cd894",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1650628800,
+        "end": 1650888000,
+        "snapshot": "14634376",
+        "state": "closed",
+        "author": "0x420f3BD5cCf6DAC9B326856E5e0bE1e51a2e3d55",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x9487a4c949809440f4eb0d4f8eaa0469576bcdb12c8d4782f2357126c83d5c6b",
+        "title": "DREAM DAO PROPOSAL #19: Transfer USD Expenses CU Incurred for Dream DAO to CU ETH Account (#2)",
+        "body": "🎯 Goals:\n\nTransfer USD expenses CU Incurred for Dream DAO (from February 25th through the end of April 2022) to CU ETH wallet.\n\n🏋️Point of Contact:\n      garysheng#5729\n\n💡Learn more: \nhttps://www.notion.so/cucrew/DREAM-DAO-PROPOSAL-19-Transfer-USD-Expenses-CU-Incurred-for-Dream-DAO-to-CU-ETH-Account-2-273083df49de418c95f85b978563739e",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1650117600,
+        "end": 1650376800,
+        "snapshot": "14596651",
+        "state": "closed",
+        "author": "0x420f3BD5cCf6DAC9B326856E5e0bE1e51a2e3d55",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x64763958ddd7e74fcf7fcf3feba70123c346c957ddc520c46a50debadb0a1f49",
+        "title": "DREAM DAO Proposal #18: Retroactive Payments to Builders Who Made Significant Contributions to Seasons 0 + 1",
+        "body": "### 🎯**Goals:**\n\nReward Builders who have made significant contributions to our community, including WG leads and those with major persistent roles and who have supported one-off tasks\n\n### 🏋️**Points of Contact:**\n\ngarysheng#5729, ashentrouble#5277, Karl(he)#2965, allison#8170, Amanda Maritan#9027, jae-hee, madison, tim\n\n### 💡**Learn more:**\nhttps://cucrew.notion.site/DREAM-DAO-Proposal-18-Retroactive-Payments-to-Builders-Who-Made-Significant-Contributions-to-Seaso-3286ed80b9b6486394f542cbd866306c",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1649822496,
+        "end": 1650081696,
+        "snapshot": "14574962",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x9baa8bb2c40a874e318028f83eea07d2f417f600c4b8738829cef220fa6aba14",
+        "title": "DREAM DAO Proposal #17: Dream DAO Spring Break",
+        "body": "🎯**Goals:**\n\n1. Proactively prevent burnout and promote wellness in the Dream DAO community\n2. Allow community members to explore other facets of their lives\n3. Allow time for self-reflection among membership\n4. Implement a one-minute slowmode in all channels of the Discord for one week\n\n🏋️**Point of Contact:**\n\njae#7088, ashentrouble#5277, Vedanth#2128\n\n💡**Description:**\n\n- This week-long collective shutdown of the Discord and community unplugging will allow members to regenerate and reflect on Dream DAO, as well as explore their other commitments and facets of their lives.\n\n*Note: The Monday night Community Hangout will still be hosted.*\n\n💚**Benefits:**\n\n- We’re able to proactively prevent burnout\n- People will return with reflections on themselves and the community\n- People will have time to explore interests outside the community\n- We’ll lead the DAO space in prioritizing collective wellness\n\n📈**Success Metrics:**\n\n1. Positive feedback during a Learning Together about burnout after the break.\n\n🗓️**Duration:**\n\n- Start: 27th March (03/27/2022)\n- End: 2nd April (04/02/2022)\n\n💰**Tokens/ETH Requested: (Treasury control)**\n\n- None\n\n💸**Token Distribution: (Sponsors’ control)**\n\n- None\n\n🤨**RISKS: (Open to All Members)**\n\n- \n\n🤓**COUNTERPOINTS: (Open to All Members)**\n\n- \n",
+        "choices": [
+          "For",
+          "Against"
+        ],
+        "start": 1648002067,
+        "end": 1648261267,
+        "snapshot": "14439846",
+        "state": "closed",
+        "author": "0x265581cD1a2Ca681E212b38dE737b42fA6c7c777",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x1be4288dd5f406d910f9c071ebd177403fe9a0a2bfd4f483866d53b30ab77610",
+        "title": "DREAM DAO PROPOSAL #16: Approving the formation of Documentation WG",
+        "body": "🎯Goals:\n\n1. A new working group (Dream DAO Documentation WG, let’s call it DWG in this document) to create a container for the many important responsibilities that should be undertaken by DAO members related to documentation and knowledge sharing\n\n🏋️Point of Contact:\n\n    garysheng#5729\n\n💡Description:\n\n- We need a lot of documentation that we are currently missing, which will be taken care of by DWG.\n- We don’t really need a social media working group, Gary has it covered for now.\n\n💚Benefits:\n\n- This working group is responsible for the following responsibilities:\n    - do all event recap thread\n    - write regular lessons from the DAO posts / videos\n    - do the Dream journal\n    - keep Dream paper updated\n    - create and keep updated Dream DAO member how tos:\n        - onboarding\n        - hosting LT sessions\n        - running for election\n        - etc...\n\n📈Success Metrics:\n\n1. Ensure the sustainable growth and flourishing of the Dream DAO\n2. Ensure that Dream DAO is a place where you can be a leader and not have to be “on” all the time\n3. In terms of nearer-term objectives (within 6-12 months):\n    - Create an ecology of documentation that ensures that anyone can fill in for anyone in Dream DAO. the bus factor for the DAO should be very low if we document what it takes to fulfill every major role thoroughly!\n\n🗓️Duration:\n\n- Start: March 21st 2022\n- End: None\n\n💰Tokens/ETH Requested: (Treasury control)\n\n- \n\n💸Token Distribution: (Sponsors’ control)\n\n- \n\n🤨RISKS: (Open to All Members)\n\n- \n\n🤓COUNTERPOINTS: (Open to All Members)\n\n- \n\nSee more here:\n[https://www.notion.so/Dream-DAO-Documentation-WG-Design-Doc-e4e9c097e65d4944901984ed0ec62598](https://www.notion.so/Dream-DAO-Documentation-WG-Design-Doc-e4e9c097e65d4944901984ed0ec62598)",
+        "choices": [
+          "For",
+          "Against"
+        ],
+        "start": 1647873900,
+        "end": 1648133100,
+        "snapshot": "14430251",
+        "state": "closed",
+        "author": "0x265581cD1a2Ca681E212b38dE737b42fA6c7c777",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x5cbc7df3fb5bb6f13dc9751e502d9d0cc88b0c0dde4494ecdac620c665842b38",
+        "title": "DREAM DAO PROPOSAL #15: Establish Partnership Governance Process",
+        "body": "🎯Goals:\n\n1. To establish a governance process for approving partners with the Dream DAO\n    1. This includes the process to raising a potential engagement all the way to proposing and voting on with DAO members\n2. Establish the Partnerships WG (and wind down the Fundraising WG)\n\n🏋️Point of Contact:\n\nProfessorStam#2504\n\n💡Description:\n\n- On the establishment of a Partnerships Working Group...\n    - The Partnerships working group will be in charge of evaluating all inbound partnership requests. Some of these partnerships may involve securing funding.\n    - It’s very important that partnerships are run through the community, because they can affect everything about how a DAO operates. Even a funder that wants to give Dream DAO a check with no strings attached comes with a brand that could negatively affect the brand of Dream DAO.\n    - Additionally, with the establishment of the Partnerships WG is to wind down the Fundraising WG, which we’ve realized does not need a working group (yet). 90% of fundraising is covered by NFT sales and the cofounders of Dream DAO (Josh, Thanasi, and Gary).\n- On the process for engaging and potentially securing a new Dream DAO partner\n    - Member engages with potential organization to discuss potential partnership and terms\n    - Member brings partnership idea back to the DAO into the #partnerships-wg chat on our Dream DAO Discord\n    - Coming out of the forum if it is approved, member creates a proposal with details around:\n        - The potential partner and their mission\n        - The intersection with DreamDAO\n        - What the partnership will entail (what does DreamDAO give / receive and vice versa)\n        - If there is any funding or commitment required\n    - Proposal shall be voted on and approved by voting members of the DreamDAO\n    - If successful, communication will be coordinated and partnership will commence\n\n💚Benefits:\n\n- Gets DAO approval before partnering with other DAOs and organizations\n- Allows for the assessment of risks and due diligence of partnering with other organizations and can help to protect DreamDAO’s reputation\n- Allows for the DAO to understand the potential benefits to the DAO if the partnership is made and any potential use of treasury funds before going to approval\n\n📈Success Metrics:\n\n1. A clear partnership governance process is outlined\n2. Future partnerships are approved using the process\n\n🗓️Duration:\n\n- Start: March 21st 2022\n- End: None\n\n💰Tokens/ETH Requested: (Treasury control)\n\n- None\n\n💸Token Distribution: (Sponsors’ control)\n\n- None\n\n🤨RISKS: (Open to All Members)\n\n- \n\n🤓COUNTERPOINTS: (Open to All Members)\n\n-",
+        "choices": [
+          "For",
+          "Against"
+        ],
+        "start": 1647832500,
+        "end": 1648091700,
+        "snapshot": "14427204",
+        "state": "closed",
+        "author": "0x265581cD1a2Ca681E212b38dE737b42fA6c7c777",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0xfa920fbfafce97422615dc72cbdd0755da3a4991a0c95a51ee250db03adf1af7",
+        "title": "DREAM DAO PROPOSAL #14: Allocating $3k for first Strategic Merch Blast",
+        "body": "🎯Goals:\n\n- Make people who have contributed to Dream DAO happy\n- Recruit new evangelists and donors to Dream DAO\n\n🏋️Point of Contact:\n\ngarysheng#5729\n\n💡Description:\n\n- The aim is to send up to 100 “Optimism is the New Punk” shirts—each ~$30—for about $3,000 USD, and the payoff could literally be $100,000s due to the good vibes generated and amazing social media content generated\n    - We will collect contact info and whatnot through paperform—Gary will send form.\n    - We will use the info collected via paperform to order shirts on Teespring. It’s very simple. Someone besides Gary will do this part.\n- We (not Gary, but Gary can be CCed) will send an email with the shipping tracking info as well as a personalized selfie video from one of our key contributors\n    - with the tracking email, we should also attach a doc or page about donating to Dream DAO or how they could show their gratitude (like post on social media)\n\n💚Benefits:\n\n- Greater awareness of Dream DAO and the vibes we are spreading\n- More money raised\n- People, especially our existing contributors, are happy\n\n📈Success Metrics:\n\n1. Dollars raised from people who received a t-shirt\n2. Number of social media posts from recipients of the shirt\n3. Shirts and/or messages of thanks successfully delivered\n\n🗓️Duration:\n\n- Start: Monday, March 21st is earliest we would start shipping\n- End: Probably finish shipping by end of April\n\n💰Tokens/ETH Requested: (Treasury control)\n\n- $3,000 USD from CU’s bank account that will be paid back from the Dream DAO treasury\n\n💸Token Distribution: (Sponsors’ control)\n\n- None\n\n🤨RISKS: (Open to All Members)\n\n- \n\n🤓COUNTERPOINTS: (Open to All Members)\n\n-",
+        "choices": [
+          "For",
+          "Against"
+        ],
+        "start": 1647831900,
+        "end": 1648091100,
+        "snapshot": "14427183",
+        "state": "closed",
+        "author": "0x265581cD1a2Ca681E212b38dE737b42fA6c7c777",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0xc9d9a3f9421e89275bf19994a41dab5e62ecc61c42300d60c13e344389191b29",
+        "title": "DREAM DAO PROPOSAL #13: Partnership with Crypto College",
+        "body": "**🎯Goals:**\n\n- Provide an additional learning path for Builders, that allows them to apply web3 concepts in a product development framework.\n- Develop a mutually beneficial relationship with another organization committed to making web3 learning more diverse and accessible.\n\n**🏋️ Points of Contact: \nSaf (Saf#2338) and Jae-Hee (jae#7088)**\n\n**💡Description:** \n\n[Crypto College](https://cryptocollege.latecheckout.studio/) has reached out to us to offer scholarships for our Builders to participate in their accelerated practice-based learning program. The program is designed to allow learners to take the often-abstract concepts behind NFTs, DAOs, and social tokens, and apply them in a project/product development framework. \n\nTheir next program is slated to start on May 2, 2022, and will include options for:\n\n- 1-track program that includes just the course curriculum\n- 2-track program that includes courses + a project component\n\nIn exchange for the scholarships, Cypto College has asked if they can include us in their promotional materials and potentially have cross-promotion through hosting Twitter Spaces together, including in each other’s newsletters etc. Promotions may also include highlighting our members as part of their alumni network. \n\n💚**Benefits:** \n\n- Keen and motivated Builders will have access to another path for learning how to use web3 tools in ways that shift for-profit endeavors to align with the goals of public good.\n- Experience working with web2 product development/management natives in transition from web2-web3.\n- Builders who don’t participate in the Explorers program can benefit from this accelerated program to put some of their Dream DAO learning into practice.\n- Increased exposure for Dream DAO, could potentially bring new Champions/Friends to the DAO\n\n🗓️**Duration:** \n\nOngoing partnership, unless terminated by either organization through a subsequent community vote. Voting period is 5 days.\n\n💰**Tokens/ETH Requested: (Treasury control)**\n\nNone\n\n🤨**RISKS: **\n\n- Crypto College operates within the corporate sector; poor framing of partnership may risk appearing as if we are not maintaining integrity to our social impact cause\n- The partnership could end up being tokenistic - creating more positive publicity for Crypto College while not actually empowering diverse voices in their program",
+        "choices": [
+          "Yes, I approve this partnership",
+          "No, I'm not convinced"
+        ],
+        "start": 1647630000,
+        "end": 1647889200,
+        "snapshot": "14408354",
+        "state": "closed",
+        "author": "0xb9570e18268375D6D57cda77ed63224f459D6384",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0xe72db64efd3adde68cc0c1118d0ca22ae3be02d32c1083e4e44bcd0d7b7e0215",
+        "title": "DREAM DAO PROPOSAL #12: Limit Discord Tagging of Voting Members",
+        "body": "🎯**Goals:**\n1. Reduce unnecessary Discord pings.\n2. Make voting members feel calmer and more likely to engage.\n\n🏋️**Point of Contact:**\nashentrouble#5277\n\n💡**Description:**\nDictating that @Builder or @Champion should not be tagged unless a proposal is being voted on, an event is being hosted, or there is an extenuating circumstances in which a Meta WG member or CU staff member has approved the ping.\n\nLearn more: https://cucrew.notion.site/DREAM-DAO-PROPOSAL-12-Limit-Discord-Tagging-of-Voting-Members-4b70458c89474334bfaa0a29fd9e8923",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1646878638,
+        "end": 1647137838,
+        "snapshot": "14356321",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x285b9289f2169c327d947050f3a710d874833a53ecbad436af1559a76e98544f",
+        "title": "DREAM DAO PROPOSAL #11: Batching Governance Proposals Into Single Notifications",
+        "body": "🎯**Goals:**\n1. Improve voter turnout.\n2. Make voting on proposals more consistent.\n\n🏋️**Point of Contact:**\nashentrouble#5277\n\n💡**Description:**\nDictating that there must be 2-3 proposals per proposal email, otherwise the proposal must wait until the next issue of the Dream Journal unless there are extenuating circumstances.\n\nLearn more: https://cucrew.notion.site/DREAM-DAO-PROPOSAL-11-Batching-Governance-Proposals-Into-Single-Notifications-8d1fa7aa195b45c9a95345a80a3e337e",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1646878562,
+        "end": 1647137762,
+        "snapshot": "14356317",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x99b7b451c09a0efb3fe6cc99e90ddd3ffd00b9525cd54c0530d493174137ea9c",
+        "title": "DREAM DAO PROPOSAL #10: Establish Meta Working Group",
+        "body": "🎯**Goals:**\n1. Make it easier to coordinate projects between working groups\n2. Keep track of general tasks that are not assigned to a working group\n3. Improve DAO culture and best practices\n\n🏋️**Point of Contact:**\nashentrouble#5277\n\n💡**Description:**\nCreating the Meta WG, which serves to coordinate cross-working group projects and facilitate projects that are not assigned to a working group. The Meta WG will consist of a select few Builders who are highly active and in-tune with the community, who can handle facilitating and supporting several different projects at once. Meta WG members will also work to improve the culture of the DAO and engagement in the DAO, and facilitate and improve best practices. Ash Kranti will serve as the interim lead.\n\nLearn more: https://cucrew.notion.site/DREAM-DAO-PROPOSAL-10-Establish-Meta-Working-Group-e12bc4ab391f410aafb64542008a35d8",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1646878492,
+        "end": 1647137692,
+        "snapshot": "14356313",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0xa379a0467ab389d458ca5d6006dcb5dcd9eea0f28a7a2452c28a727d7878188f",
+        "title": "DREAM DAO PROPOSAL #9: Merge Explorers Program and DAO Learning WG",
+        "body": "🎯**Goals:**\n1. Make it easier to schedule learning-related meetings\n2. Consolidate the fact that the Explorers Program is a part of Dream DAO learning\n\n🏋️**Point of Contact:**\nT I M#6903\n\n💡**Description:**\nMerging the Explorers Program WG and the DAO Learning WG into a single working group - the Community Learning WG\n\nLearn more: https://cucrew.notion.site/DREAM-DAO-PROPOSAL-9-Merge-Explorers-Program-and-DAO-Learning-WG-7186abb5f5be4388a2c3aab7ddc3b8d6",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1646878436,
+        "end": 1647137636,
+        "snapshot": "14356312",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x133255cf91d1e107a94958bee9d183f61ddcc20699c10f1c50985e688173b5b8",
+        "title": "DREAM DAO PROPOSAL #7: Solidifying the High Level Design of the Explorers Program Pilot",
+        "body": "🎯**Goals:**\nSolidify the High Level Design of the Explorers Program Pilot, so we can commit to a timeline ASAP.\n\n🏋️**Point of Contact:**\ngarysheng#5729\n\n💡**Description:**\nLearn more: https://cucrew.notion.site/Dream-DAO-Explorers-Program-Design-Doc-March-2022-Version-057b51e4dc864f68bf9fe93bf1464d2f",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1646748031,
+        "end": 1647007231,
+        "snapshot": "14346579",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x1cf93433e53c157c647bd2b07a66d16327bedf09085c08b38477d93340afa548",
+        "title": "GOVERNANCE WG PROPOSAL #1: Approving Tentative Design of Governance WG",
+        "body": "🎯**Goals:**\n\n1. Agree on the short-term design of the Governance working group \n\n🏋️**Point of Contact:**\n\n@T I M#6903\n\nMore details: https://www.notion.so/cucrew/GOVERNANCE-WG-PROPOSAL-1-Approving-Tentative-Design-of-Governance-WG-3f9f8cdb10294518ae891dfe838ff711",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1646731529,
+        "end": 1646990729,
+        "snapshot": "14345385",
+        "state": "closed",
+        "author": "0x0D933F6ffA1DC3b37163Bf23EdE8C90845DB83E1",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x2a4307a65d7900e34890de1728d95f21d6e9118f82bb8277eb4561c10e7be22c",
+        "title": "DREAM DAO PROPOSAL #8:Selecting Builders to appear on the Forefront community hangout / podcast",
+        "body": "🎯Goals:\n1. Hold a ranked choice election on Snapshot to select Builders who will appear in front of the Forefront community.\n2. Test decentralizing the decision-making system of who represents the Dream DAO to the public.\n\n🏋️Point of Contact:\nmadhavg.eth#4168\n\nThe Detailed proposal: https://cucrew.notion.site/DREAM-DAO-PROPOSAL-8-Selecting-Builders-to-appear-on-the-Forefront-community-hangout-podcast-f7f2e847e07a43ba959f0afc2ca23d17",
+        "choices": [
+          "Chabu Kapumba",
+          "Ash Kranti",
+          "Madison Adams",
+          "Arman Singh",
+          "Madhav Goyal"
+        ],
+        "start": 1646246228,
+        "end": 1646505428,
+        "snapshot": "14309264",
+        "state": "closed",
+        "author": "0x5c0265DCFBeeA7A363098483fE4910052D4DD668",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x8cabec365b998df55481a6833c16b5fc60257a79f77ad78e627710ce4fb97f1e",
+        "title": "DREAM DAO PROPOSAL #6: Fund Gary’s DAO Operators Residency at Cabin DAO",
+        "body": "🎯**Goals:**\n\n1. Gain a deeper understanding on topics such as tokenomics, governance structures, motivational techniques in decentralized organizations, and contributor onboarding and compensation\n2. Build relationships with other DAO operators/stewards, who can help Dream DAO in the future\n3. Answers questions like those listed [here](https://www.notion.so/DREAM-DAO-PROPOSAL-6-Fund-Gary-s-DAO-Operators-Residency-at-Cabin-DAO-c64410be2d4a465e9c69ec4aed5bc1eb)\n\n🏋️**Point of Contact:**\n\ngarysheng#5729\n\nLearn more here: https://cucrew.notion.site/DREAM-DAO-PROPOSAL-6-Fund-Gary-s-DAO-Operators-Residency-at-Cabin-DAO-c64410be2d4a465e9c69ec4aed5bc1eb",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1645876876,
+        "end": 1646136076,
+        "snapshot": "14281595",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0xd2c808bb208f21ff6bdf10a6ba37d7195221c97f800f27ed4b929f3795e8fff5",
+        "title": "DREAM DAO PROPOSAL #5: Have a +1 Policy for Learning Together Sessions",
+        "body": "🎯Goals:\n\n1. Expand the DAO’s impact\n2. Give voting members further perks\n3. Interest a variety of people in the DAO’s work\n\n🏋️Point of Contact:\n\nashentrouble#5277\n\nLearn more here: https://cucrew.notion.site/DREAM-DAO-PROPOSAL-5-Have-a-1-Policy-for-Learning-Together-Sessions-0d7f8b402b9a4edfafc0ce177ac104f4",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1644870346,
+        "end": 1645129546,
+        "snapshot": "14206380",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x1e2f1efc50110a1dfe908943a2974621d3484006ea39680a7520aee026bcba51",
+        "title": "DREAM DAO PROPOSAL #4: Agreement on Creation of Champion and Builder NFTs for On Chain Voting",
+        "body": "🎯Goals:\n\n1. To establish agreement that the DAO wants to create unique Builder and Champion NFTs for each DreamDAO Class or Cohort for both commemoration and permissioned control for voting and governance.\n\n🏋️Point of Contact:\n\nProfessorStam\n\nLearn more here: https://cucrew.notion.site/DREAM-DAO-PROPOSAL-4-Agreement-on-Creation-of-Champion-and-Builder-NFTs-for-On-Chain-Voting-e24b0a8edb0e4813956bcfa7380116b5",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1644870293,
+        "end": 1645129493,
+        "snapshot": "14206377",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x229acb002dff3e5f2c4714f030e739c816940249914e8064119a23f6c3994908",
+        "title": "DREAM DAO PROPOSAL #3: Transfer USD Expenses CU Incurred for Dream DAO to CU ETH Account",
+        "body": "🎯Goals:\n\nTransfer USD expenses CU Incurred for Dream DAO (from October 2021 through the end of February 10th, 2022) to CU ETH wallet.\n\n🏋️Point of Contact:\n\ngarysheng#5729\n\nLearn more: https://cucrew.notion.site/DREAM-DAO-PROPOSAL-3-Transfer-USD-Expenses-CU-Incurred-for-Dream-DAO-to-CU-ETH-Account-f7583891d220423c9784a7f3162007fe",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1644870227,
+        "end": 1645129427,
+        "snapshot": "14206369",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x39432aca8ee64396158c2c4bb044de8ab5d13f927d25968dc705c5122037595c",
+        "title": "Dream DAO Proposal #02: Extend Phase 1 to End of April",
+        "body": "Extend Phase 1 end date to April 30th. The aim is to officially expand the length of Phase 1 from end of March 2022 to end of April 2022.",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1644159120,
+        "end": 1644418320,
+        "snapshot": "14153143",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      },
+      {
+        "id": "0x6702dc42609ac6a2c7d78d24eec2b5b6cc3d9f8990f0b7c08cbafbf03fde20a8",
+        "title": "Dream DAO Proposal #01: Julia Pepper Membership Proposal",
+        "body": "Bring Julia Pepper on as a Dream DAO Builder effective immediately if proposal is approved. The aim is to officially invite Julia Pepper to join the Dream DAO as a Dream DAO Builder for at least the remainder of Phase 1.",
+        "choices": [
+          "For",
+          "Against",
+          "Abstain"
+        ],
+        "start": 1644159000,
+        "end": 1644418200,
+        "snapshot": "14153140",
+        "state": "closed",
+        "author": "0x8eFD27A5A585e2220d3d013F24722D8474Eaa6F9",
+        "space": {
+          "id": "thedreamdao.eth",
+          "name": "Dream DAO"
+        }
+      }
+    ]
