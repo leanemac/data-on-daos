@@ -31,41 +31,42 @@ Different insights have been extracted and put together in the form of an analyt
 1. datasets: folder containing all .csv files used in the notebooks
   
   - aragon: folder containing the .csv files from Aragon DAO
-    - aragon_transhist.csv: data extracted from Etherscan (2020-10-23 to 2022-04-0)
+    - aragon_transhist.csv: data extracted from Etherscan (2020-10-23 to 2022-04-08)
   
   - bankless: folder containing the .csv files from Bankless DAO
-    - bankles_gnosis_proxy.csv:
-    - bankless_tokenholders.csv: 
-    - bankless_transhist.csv:
-    - bankless_treasury.csv:
+    - bankless_gnosis_proxy.csv: data extracted from the Bankless multisig gnosis address (2019-12-13 to 2022-04-06)
+    - bankless_tokenholders.csv: data extracted from Etherscan Holders on 2022-04-14
+    - bankless_transhist.csv: data extracted from Etherscan (2021-05-04 to 2022-04-04)
+    - bankless_treasury.csv: data extracted from Etherscan (2021-05-04 to 2022-03-16)
   
   - gitcoin: folder containing the .csv files from Gitcoin DAO
-    - gitcoin_tokenholders.csv:
+    - gitcoin_tokenholders.csv: data extracted from Etherscan Holders on 2022-04-26
   
   - lido: folder containing the .csv files from Lido Protocol
-    - lido_transactionhist.csv:
-    - lido_treasury.csv:
+    - lido_transactionhist.csv: data extracted from Etherscan (2021-01-05 to 2022-04-05)
+    - lido_treasury.csv: data extracted from Etherscan (2020-12-17 to 2022-04-03)
   
   - mstable: folder containing the .csv files from Mstable DAO
-    - mstable_gnosis_wallet.csv: 
-    - mstable_tokenholders.csv:
-    - mstable_transhist.csv:
-    - mstable_treasury.csv:
+    - mstable_gnosis_wallet.csv: data extracted from the Mstable multisig gnosis address
+    - mstable_tokenholders.csv:  data extracted from Etherscan Holders on 2022-04-12
+    - mstable_transhist.csv: data extracted from Etherscan (2020-07-13 to 2022-04-07)
+    - mstable_treasury.csv: data extracted from Etherscan (2021-12-16 to 2022-03-31)
   
   - impactdaos_lang_processed.csv
   
 2. notebooks:
   
+  - aragon_transactions.ipynb: notebook with loaded dataset - to be explored and classified
+  - bankless_transactions.ipynb: notebook with supervised model of clustering - wallet segmentation
   - gitcoin_votes_and_proposals.ipynb: notebook with Gitcoin's insights related to governance, topic modelling on Snapshot proposals
   - lido_transactions.ipynb:
   - mstable_contributors_index.ipynb: notebook with all classified contriburs transactions
   - mstable_votes_and_proposals.ipynb: notebook with Mstable's insights related to governance, topic modelling on Snapshot proposals
   - mstable_wallet_segmentation-4k.ipynb: notebook with supervised machine learning model of classification, segmentation of wallets in clusters to identify types of transactions related to contributors
-  - mstable_wallet_segmentation_bmf.ipynb:
+  - mstable_wallet_segmentation_bmf.ipynb: 
   - bankless_votes_and_proposals.ipynb:
   - impact_daos_topic_modelling.ipynb:
-  - aragon_transactions.ipynb:
-  - bankless_transactions.ipynb:
+  
   
 3. text_files: folder containing .json files extracted from snapshot with GraphQL
   - bankless_proposals.json
