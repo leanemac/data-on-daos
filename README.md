@@ -28,13 +28,54 @@ Different insights have been extracted and put together in the form of an analyt
 <details>
 <summary>file_descriptions</summary>
 <br>
-datasets: folder containing all .csv files used in the notebooks
-  aragon: folder containing the .csv files from Aragon DAO
-    aragon_transhist.csv: data extracted from Etherscan (2020-10-23 to 2022-04-0)
-  bankless: folder containing the .csv files from Bankless DAO
-    
-  gitcoin
-  lido
-  mstable
-  impactdaos_lang_processed.csv
+1. datasets: folder containing all .csv files used in the notebooks
+  - aragon: folder containing the .csv files from Aragon DAO
+    - aragon_transhist.csv: data extracted from Etherscan (2020-10-23 to 2022-04-0)
+  - bankless: folder containing the .csv files from Bankless DAO
+    - bankles_gnosis_proxy.csv:
+    - bankless_tokenholders.csv: 
+    - bankless_transhist.csv:
+    - bankless_treasury.csv:
+  - gitcoin: folder containing the .csv files from Gitcoin DAO
+    - gitcoin_tokenholders.csv:
+  - lido: folder containing the .csv files from Lido Protocol
+    - lido_transactionhist.csv:
+    - lido_treasury.csv:
+  - mstable: folder containing the .csv files from Mstable DAO
+    - mstable_gnosis_wallet.csv: 
+    - mstable_tokenholders.csv:
+    - mstable_transhist.csv:
+    - mstable_treasury.csv:
+  - impactdaos_lang_processed.csv
+2. notebooks:
+  - gitcoin_votes_and_proposals.ipynb: notebook with Gitcoin's insights related to governance, topic modelling on Snapshot proposals
+  - lido_transactions.ipynb:
+  - mstable_contributors_index.ipynb: notebook with all classified contriburs transactions
+  - mstable_votes_and_proposals.ipynb: notebook with Mstable's insights related to governance, topic modelling on Snapshot proposals
+  - mstable_wallet_segmentation-4k.ipynb: notebook with supervised machine learning model of classification, segmentation of wallets in clusters to identify types of transactions related to contributors
+  - mstable_wallet_segmentation_bmf.ipynb:
+  - bankless_votes_and_proposals.ipynb:
+  - impact_daos_topic_modelling.ipynb:
+  - aragon_transactions.ipynb:
+  - bankless_transactions.ipynb:
+  
+3. text_files: folder containing .json files extracted from snapshot with GraphQL
+  - bankless_proposals.json
+  - bankless_votes.json
+  - cabindao_proposals.json
+  - forefront_proposals.json
+  - gitcoin_proposals.json
+  - gitcoin_votes.json
+  - giveth_proposals.json
+  - goldfinch_proposals.json
+  - moss_proposals.json
+  - mstable_proposals.json
+  - mstable_votes.json
+  - oceanprotocol_proposals.json
+  - poh_proposals.json
+  - primedao_proposals.json
+  - protein_proposals.json
+  - thedreamdao_proposals.json
+  - vitadao_proposals.json
+  
 </details>
