@@ -29,25 +29,33 @@ Different insights have been extracted and put together in the form of an analyt
 <summary>file_descriptions</summary>
 <br>
 1. datasets: folder containing all .csv files used in the notebooks
+  
   - aragon: folder containing the .csv files from Aragon DAO
     - aragon_transhist.csv: data extracted from Etherscan (2020-10-23 to 2022-04-0)
+  
   - bankless: folder containing the .csv files from Bankless DAO
     - bankles_gnosis_proxy.csv:
     - bankless_tokenholders.csv: 
     - bankless_transhist.csv:
     - bankless_treasury.csv:
+  
   - gitcoin: folder containing the .csv files from Gitcoin DAO
     - gitcoin_tokenholders.csv:
+  
   - lido: folder containing the .csv files from Lido Protocol
     - lido_transactionhist.csv:
     - lido_treasury.csv:
+  
   - mstable: folder containing the .csv files from Mstable DAO
     - mstable_gnosis_wallet.csv: 
     - mstable_tokenholders.csv:
     - mstable_transhist.csv:
     - mstable_treasury.csv:
+  
   - impactdaos_lang_processed.csv
+  
 2. notebooks:
+  
   - gitcoin_votes_and_proposals.ipynb: notebook with Gitcoin's insights related to governance, topic modelling on Snapshot proposals
   - lido_transactions.ipynb:
   - mstable_contributors_index.ipynb: notebook with all classified contriburs transactions
