@@ -1,7 +1,6 @@
 # data-on-daos 
-or may we say regen-daos?
 
-An open source repository to learn and gather data about regenerative Decentralized Autonomous Organizations (DAOs)
+An open source repository to learn and gather data about Decentralized Autonomous Organizations (DAOs)
 
 # What are Decentralized Autonomous Organizations?
 
